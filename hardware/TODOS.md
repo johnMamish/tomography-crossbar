@@ -1,11 +1,14 @@
 #### Replace Out-of-stock parts(?)
- - Microcontroller ( :(  )
+ - [ ] Microcontroller ( :(  )
     - Pin-compatible replacement?
       Connor specified part TM4C123GH6PMI; TI has inventory of TM4C123GH6PMI7. Seems like it might be the same chip...?
- - Voltage regulator
- - Relay drivers
+ - [x] Voltage regulator
+ - [ ] Relay drivers
 
 #### Voltage regulators
- - Source different part that's not out-of-stock everywhere?
+ - [x] Source different part that's not out-of-stock everywhere?
+ - [x] Clean up schematic
 
- - [ ] Clean up schematic
+
+ - [ ] rename relay input signals
+ - [ ] add labelling
