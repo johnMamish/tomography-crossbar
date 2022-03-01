@@ -4061,247 +4061,367 @@ design rules under a new name.</description>
 </autorouter>
 <elements>
 <element name="C1" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF" x="142.908" y="260.5035" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="142.908" y="260.5035" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="142.908" y="260.5035" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="142.273" y="261.1385" size="0.8" layer="25"/>
 <attribute name="VALUE" x="142.273" y="258.5985" size="1.27" layer="27"/>
 </element>
 <element name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF" x="149.8" y="284" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL21A106KAYNNNE" x="149.8" y="284" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="149.8" y="284" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="149.8" y="285.3" size="0.7" layer="25" align="center"/>
 <attribute name="POPULARITY" value="63" x="149.8" y="284" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="149.8" y="284" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="149.165" y="282.095" size="1.27" layer="27"/>
 </element>
 <element name="C101" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF" x="183" y="268" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="183" y="268" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="183" y="268" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="184.4" y="267.7" size="0.8" layer="25"/>
 </element>
 <element name="C102" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF" x="165.7" y="268.55" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="165.7" y="268.55" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="165.7" y="268.55" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="165.8" y="270.1" size="0.8" layer="25" rot="R180"/>
 </element>
 <element name="C103" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.01uF" x="171.5" y="257.75" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER_PART_NUMBER" value="GCM155R71H103KA55D" x="171.5" y="257.75" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Murata Electronics" x="171.5" y="257.75" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="172.135" y="258.385" size="0.8" layer="25" rot="R270"/>
 </element>
 <element name="C106" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF" x="175.25" y="257.75" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="175.25" y="257.75" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="175.25" y="257.75" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="175.885" y="258.385" size="0.8" layer="25" rot="R270"/>
 </element>
 <element name="C105" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="173" y="275" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="173" y="275" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="173" y="275" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="171.1" y="273.7" size="0.8" layer="25" rot="R90"/>
 </element>
 <element name="C104" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.01uF" x="170" y="257.75" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER_PART_NUMBER" value="GCM155R71H103KA55D" x="170" y="257.75" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Murata Electronics" x="170" y="257.75" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="168.135" y="257.885" size="0.8" layer="25" rot="R270"/>
 </element>
 <element name="C11" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF" x="155.6" y="279.4" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL21A106KAYNNNE" x="155.6" y="279.4" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="155.6" y="279.4" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="154.1" y="279.4" size="0.7" layer="25" rot="R270" align="center"/>
 <attribute name="POPULARITY" value="63" x="155.6" y="279.4" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="155.6" y="279.4" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="153.695" y="280.035" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="C109" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF" x="166.3" y="266.7" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="166.3" y="266.7" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="166.3" y="266.7" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="163.6" y="265.4" size="0.8" layer="25" rot="R90"/>
 </element>
 <element name="C107" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF" x="183" y="266.75" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="183" y="266.75" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="183" y="266.75" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="185.1" y="266.4" size="0.8" layer="25"/>
 </element>
 <element name="C110" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="165.05" y="266.7" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="165.05" y="266.7" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="165.05" y="266.7" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="162.6" y="265.4" size="0.8" layer="25" rot="R90"/>
 </element>
 <element name="C12" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF" x="133.9" y="279.4" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL21A106KAYNNNE" x="133.9" y="279.4" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="133.9" y="279.4" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="132.4" y="279.4" size="0.7" layer="25" rot="R270" align="center"/>
 <attribute name="POPULARITY" value="63" x="133.9" y="279.4" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="133.9" y="279.4" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="131.995" y="280.035" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="C108" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="2.2uF" x="183" y="265" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL10A225KO8NNNC" x="183" y="265" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="183" y="265" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="181.6" y="263.4" size="0.8" layer="25"/>
 </element>
-<element name="C13" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1nF" x="175.2375" y="275.0075" smashed="yes" rot="R90">
+<element name="C13" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.01uF" x="175.2375" y="275.0075" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="GCM155R71H103KA55D" x="175.2375" y="275.0075" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Murata Electronics" x="175.2375" y="275.0075" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="174.4" y="274.1" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="177.1425" y="274.3725" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C14" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.25" y="188.75" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.25" y="188.75" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.25" y="188.75" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.7" y="187.8" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.155" y="188.115" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C15" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="114.25" y="36.25" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="114.25" y="36.25" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="114.25" y="36.25" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="112.885" y="36.615" size="0.8" layer="25" rot="R180"/>
 <attribute name="VALUE" x="114.885" y="38.155" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="C16" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.25" y="133" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.25" y="133" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.25" y="133" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.615" y="132.015" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.155" y="132.365" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C17" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.236" y="284.127" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.236" y="284.127" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.236" y="284.127" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.6" y="283" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.141" y="283.492" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C18" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="118" y="188.75" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="118" y="188.75" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="118" y="188.75" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120.3" y="187.7" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.905" y="188.115" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C19" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.25" y="247.75" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.25" y="247.75" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.25" y="247.75" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.7" y="246.8" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.155" y="247.115" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C2" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF" x="142.75" y="249.75" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="142.75" y="249.75" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="142.75" y="249.75" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="141.6" y="250.5" size="0.8" layer="25"/>
 <attribute name="VALUE" x="142.115" y="247.845" size="1.27" layer="27"/>
 </element>
 <element name="C20" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="114.5" y="92" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="114.5" y="92" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="114.5" y="92" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="114.385" y="93.365" size="0.8" layer="25" rot="R180"/>
 <attribute name="VALUE" x="115.135" y="93.905" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="C21" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="114.25" y="72.75" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="114.25" y="72.75" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="114.25" y="72.75" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="113" y="73.1" size="0.8" layer="25" rot="R180"/>
 <attribute name="VALUE" x="114.885" y="74.655" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="C22" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.25" y="225.75" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.25" y="225.75" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.25" y="225.75" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.7" y="224.8" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.155" y="225.115" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C23" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.25" y="265.25" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.25" y="265.25" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.25" y="265.25" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.7" y="264.2" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.155" y="264.615" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C24" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="114.25" y="109.25" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="114.25" y="109.25" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="114.25" y="109.25" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="115.615" y="109.635" size="0.8" layer="25"/>
 <attribute name="VALUE" x="114.885" y="111.155" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="C25" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.2965" y="300.377" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.2965" y="300.377" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.2965" y="300.377" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.7" y="299.4" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.2015" y="299.742" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C26" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.25" y="150.25" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.25" y="150.25" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.25" y="150.25" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.6" y="149.3" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.155" y="149.615" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C27" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.25" y="20" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.25" y="20" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.25" y="20" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.6745" y="20.226" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.155" y="19.365" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C28" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.25" y="171.75" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.25" y="171.75" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.25" y="171.75" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.7" y="170.7" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.155" y="171.115" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C29" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.25" y="208.5" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.25" y="208.5" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.25" y="208.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.715" y="207.515" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.155" y="207.865" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C3" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF" x="155.75" y="244.25" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="155.75" y="244.25" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="155.75" y="244.25" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="155.2" y="245" size="0.8" layer="25"/>
 <attribute name="VALUE" x="155.115" y="242.345" size="1.27" layer="27"/>
 </element>
 <element name="C30" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="115.25" y="57" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="115.25" y="57" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="115.25" y="57" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="116.6" y="55.9" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="117.155" y="56.365" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C31" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="119" y="36.25" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="119" y="36.25" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="119" y="36.25" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.615" y="35.885" size="0.8" layer="25"/>
 <attribute name="VALUE" x="118.365" y="34.345" size="1.27" layer="27"/>
 </element>
 <element name="C32" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="118" y="133" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="118" y="133" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="118" y="133" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120.3" y="132" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.905" y="132.365" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C33" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="117.8065" y="284.127" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="117.8065" y="284.127" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="117.8065" y="284.127" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120.3" y="283" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.7115" y="283.492" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C34" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="118" y="247.75" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="118" y="247.75" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="118" y="247.75" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120.5" y="246.8" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.905" y="247.115" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C35" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="119" y="92" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="119" y="92" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="119" y="92" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.1" y="92" size="0.8" layer="25"/>
 <attribute name="VALUE" x="118.365" y="90.095" size="1.27" layer="27"/>
 </element>
 <element name="C36" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="118.5" y="72.75" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="118.5" y="72.75" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="118.5" y="72.75" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="119.7" y="72.4" size="0.8" layer="25"/>
 <attribute name="VALUE" x="117.865" y="70.845" size="1.27" layer="27"/>
 </element>
 <element name="C37" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="118" y="225.75" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="118" y="225.75" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="118" y="225.75" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120.5" y="224.9" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.905" y="225.115" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C38" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="117.987" y="265.246" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="117.987" y="265.246" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="117.987" y="265.246" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120.3" y="264.2" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.892" y="264.611" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C39" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="119" y="109.25" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="119" y="109.25" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="119" y="109.25" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="120.365" y="109.635" size="0.8" layer="25"/>
 <attribute name="VALUE" x="118.365" y="107.345" size="1.27" layer="27"/>
 </element>
 <element name="C4" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF" x="155.75" y="254.5" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="155.75" y="254.5" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="155.75" y="254.5" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="155.9" y="253.1" size="0.8" layer="25"/>
 <attribute name="VALUE" x="155.115" y="252.595" size="1.27" layer="27"/>
 </element>
 <element name="C40" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="118" y="57" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="118" y="57" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="118" y="57" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120.2" y="56.2" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.905" y="56.365" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C41" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="118" y="208.5" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="118" y="208.5" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="118" y="208.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120.2" y="207.5" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.905" y="207.865" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C42" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="118" y="171.75" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="118" y="171.75" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="118" y="171.75" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120.2" y="170.7" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.905" y="171.115" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C43" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="118" y="20" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="118" y="20" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="118" y="20" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="119.365" y="20.115" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.905" y="19.365" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C44" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="117.75" y="150.25" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="117.75" y="150.25" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="117.75" y="150.25" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120" y="149.2" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.655" y="149.615" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C45" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="117.825" y="300.377" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="117.825" y="300.377" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="117.825" y="300.377" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="120.3" y="299.4" size="0.8" layer="25" rot="R90"/>
 <attribute name="VALUE" x="119.73" y="299.742" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C46" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF" x="192.4" y="257.2" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="192.4" y="257.2" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="192.4" y="257.2" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="193.1" y="258.2" size="0.8" layer="25" rot="R270"/>
 <attribute name="VALUE" x="194.305" y="256.565" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C5" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="4.7uF" x="189.9" y="252.7" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL10A475KA8NQNC" x="189.9" y="252.7" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="189.9" y="252.7" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="186.9" y="252.3" size="0.8" layer="25"/>
 <attribute name="VALUE" x="189.265" y="250.795" size="1.27" layer="27"/>
 </element>
 <element name="C6" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF" x="189.9" y="251.5" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="189.9" y="251.5" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="189.9" y="251.5" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="187" y="251.2" size="0.8" layer="25"/>
 <attribute name="VALUE" x="189.265" y="249.595" size="1.27" layer="27"/>
 </element>
 <element name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF" x="171.5" y="284" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL21A106KAYNNNE" x="171.5" y="284" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="171.5" y="284" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="171.5" y="285.3" size="0.7" layer="25" align="center"/>
 <attribute name="POPULARITY" value="63" x="171.5" y="284" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="171.5" y="284" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="170.865" y="282.095" size="1.27" layer="27"/>
 </element>
 <element name="C8" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="149.5" y="278.4" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="149.5" y="278.4" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="149.5" y="278.4" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="148.7" y="277" size="0.8" layer="25"/>
 <attribute name="VALUE" x="148.865" y="276.495" size="1.27" layer="27"/>
 </element>
 <element name="C9" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF" x="171.2" y="278.4" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC" x="171.2" y="278.4" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="171.2" y="278.4" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="173.2" y="278.4" size="0.7" layer="25" align="center"/>
 <attribute name="VALUE" x="170.565" y="276.495" size="1.27" layer="27"/>
 </element>
 <element name="X3" library="SJ1-3523NG" package="CUI_SJ1-3523NG" value="SJ1-3523NG" x="198.4" y="269" smashed="yes" rot="R180">
 <attribute name="MANUFACTURER" value="CUI" x="14.25" y="359.17" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="SJ1-3523NG" x="198.4" y="269" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="CUI Devices" x="198.4" y="269" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PARTREV" value="1.01" x="14.25" y="359.17" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="14.25" y="359.17" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="201.901259375" y="276.002509375" size="1.270459375" layer="27" rot="R180" align="top-left"/>
 </element>
 <element name="X4" library="SJ1-3523NG" package="CUI_SJ1-3523NG" value="SJ1-3523NG" x="198.4" y="295.6" smashed="yes" rot="R180">
 <attribute name="MANUFACTURER" value="CUI" x="-7.34" y="385.77" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="SJ1-3523NG" x="198.4" y="295.6" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="CUI Devices" x="198.4" y="295.6" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PARTREV" value="1.01" x="-7.34" y="385.77" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="-7.34" y="385.77" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="201.901259375" y="302.602509375" size="1.270459375" layer="27" rot="R180" align="top-left"/>
 </element>
 <element name="X5" library="SJ1-3523NG" package="CUI_SJ1-3523NG" value="SJ1-3523NG" x="198.4" y="282.3" smashed="yes" rot="R180">
 <attribute name="MANUFACTURER" value="CUI" x="176.81" y="392.79" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="SJ1-3523NG" x="198.4" y="282.3" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="CUI Devices" x="198.4" y="282.3" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PARTREV" value="1.01" x="176.81" y="392.79" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="176.81" y="392.79" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="201.901259375" y="289.302509375" size="1.270459375" layer="27" rot="R180" align="top-left"/>
 </element>
 <element name="X2" library="FTSH-105-01-F-DV-007-K-P" package="FTSH-105-01-F-DV-007-K-P" value="FTSH-105-01-F-DV-007-K-P" x="198.924" y="172.9025" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="FTSH-105-01-F-DV-007-K-P" x="198.924" y="172.9025" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MFR" value="samtec" x="-5.546" y="386.2625" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Samtec" x="198.924" y="172.9025" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MFR_PN" value="FTSH-105-01-F-DV-007-K-P" x="-5.546" y="386.2625" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="J6" library="CT3151" package="CONN_CT3151" value="CT3151" x="157" y="296" smashed="yes">
@@ -4839,22 +4959,32 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="141.878" y="168.3345" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="R10" library="resistor" library_urn="urn:adsk.eagle:library:348" package="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="5.1k" x="194.25" y="251" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0402FR-075K1L" x="194.25" y="251" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="YAGEO" x="194.25" y="251" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="193.365" y="251.735" size="0.8" layer="25"/>
 <attribute name="VALUE" x="193.615" y="249.095" size="1.27" layer="27"/>
 </element>
 <element name="R11" library="resistor" library_urn="urn:adsk.eagle:library:348" package="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="5.1k" x="194.25" y="254.5" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0402FR-075K1L" x="194.25" y="254.5" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="YAGEO" x="194.25" y="254.5" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="193.3" y="253.1" size="0.8" layer="25"/>
 <attribute name="VALUE" x="193.615" y="252.595" size="1.27" layer="27"/>
 </element>
 <element name="R12" library="resistor" library_urn="urn:adsk.eagle:library:348" package="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="47.5k" x="185.8" y="248.2" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RMCF0402FT47K5" x="185.8" y="248.2" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Stackpole Electronics Inc" x="185.8" y="248.2" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="184.7" y="244.8" size="0.8" layer="25"/>
 <attribute name="VALUE" x="185.165" y="246.295" size="1.27" layer="27"/>
 </element>
 <element name="R13" library="resistor" library_urn="urn:adsk.eagle:library:348" package="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="22.1k" x="185.8" y="249.3" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0402FR-0722K1L" x="185.8" y="249.3" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="YAGEO" x="185.8" y="249.3" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="184.7" y="245.7" size="0.8" layer="25"/>
 <attribute name="VALUE" x="185.165" y="247.395" size="1.27" layer="27"/>
 </element>
 <element name="R14" library="resistor" library_urn="urn:adsk.eagle:library:348" package="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="10kohm" x="192.5" y="199.25" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC1005F103CS" x="192.5" y="199.25" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="192.5" y="199.25" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="191.865" y="199.885" size="0.8" layer="25"/>
 <attribute name="VALUE" x="191.865" y="197.345" size="1.27" layer="27"/>
 </element>
@@ -4935,6 +5065,8 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="183.6215" y="212.1475" size="1.27" layer="27"/>
 </element>
 <element name="R32" library="resistor" library_urn="urn:adsk.eagle:library:348" package="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="470ohm" x="192.5" y="201.5" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0402JR-07470RL" x="192.5" y="201.5" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="YAGEO" x="192.5" y="201.5" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="191.865" y="202.135" size="0.8" layer="25"/>
 <attribute name="VALUE" x="191.865" y="199.595" size="1.27" layer="27"/>
 </element>
@@ -4959,6 +5091,8 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="157.576" y="168.013" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="R9" library="resistor" library_urn="urn:adsk.eagle:library:348" package="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="1k" x="185.8" y="247.1" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CRG0402F1K0" x="185.8" y="247.1" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="TE Connectivity Passive Product" x="185.8" y="247.1" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="185.1" y="243.9" size="0.8" layer="25"/>
 <attribute name="VALUE" x="185.165" y="245.195" size="1.27" layer="27"/>
 </element>
@@ -4969,7 +5103,9 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="215.265" y="227.7058" size="1.27" layer="27" ratio="6" rot="SR90"/>
 </element>
 <element name="S2" library="fsm4jsma" package="TE_FSMJSMA" value="" x="198.009" y="199.362" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="FSM4JSMA" x="198.009" y="199.362" size="1.778" layer="27" display="off"/>
 <attribute name="MFR" value="TE connectivity" x="295.799" y="-16.538" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="TE Connectivity" x="198.009" y="199.362" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_PN" value="FSM4JSMA" x="295.799" y="-16.538" size="1.778" layer="27" display="off"/>
 </element>
 <element name="D2" library="XZCBD53W-8" package="DIOC1608X70N" package3d_urn="urn:adsk.eagle:package:30853005/1" value="XZCBD53W-8" x="200" y="246" smashed="yes">
@@ -4979,18 +5115,54 @@ design rules under a new name.</description>
 <element name="U$131" library="uart_3pin_header" package="HDRV3W64P254_1X3_1016X277X854B" package3d_urn="urn:adsk.eagle:package:30772618/1" value="3PIN_UART_HEADER" x="200.84" y="183.74" smashed="yes" rot="R90">
 <attribute name="VALUE" x="202.975" y="183.74" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
-<element name="X108" library="364A2595" package="364A2595" value="364A2595" x="15" y="18" smashed="yes" rot="R180"/>
-<element name="X107" library="364A2595" package="364A2595" value="364A2595" x="15" y="56" smashed="yes" rot="R180"/>
-<element name="X106" library="364A2595" package="364A2595" value="364A2595" x="15" y="94" smashed="yes" rot="R180"/>
-<element name="X105" library="364A2595" package="364A2595" value="364A2595" x="15" y="132" smashed="yes" rot="R180"/>
-<element name="X104" library="364A2595" package="364A2595" value="364A2595" x="15" y="170" smashed="yes" rot="R180"/>
-<element name="X103" library="364A2595" package="364A2595" value="364A2595" x="15" y="208" smashed="yes" rot="R180"/>
-<element name="X102" library="364A2595" package="364A2595" value="364A2595" x="14.986" y="245.958" smashed="yes" rot="R180"/>
-<element name="X101" library="364A2595" package="364A2595" value="364A2595" x="15" y="284" smashed="yes" rot="R180"/>
-<element name="X111" library="364A2595" package="364A2595" value="364A2595" x="188" y="19" smashed="yes"/>
-<element name="X112" library="364A2595" package="364A2595" value="364A2595" x="188" y="57" smashed="yes"/>
-<element name="X113" library="364A2595" package="364A2595" value="364A2595" x="188" y="95" smashed="yes"/>
-<element name="X114" library="364A2595" package="364A2595" value="364A2595" x="188" y="133" smashed="yes"/>
+<element name="X108" library="364A2595" package="364A2595" value="364A2595" x="15" y="18" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="15" y="18" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="15" y="18" size="1.778" layer="27" rot="R180" display="off"/>
+</element>
+<element name="X107" library="364A2595" package="364A2595" value="364A2595" x="15" y="56" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="15" y="56" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="15" y="56" size="1.778" layer="27" rot="R180" display="off"/>
+</element>
+<element name="X106" library="364A2595" package="364A2595" value="364A2595" x="15" y="94" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="15" y="94" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="15" y="94" size="1.778" layer="27" rot="R180" display="off"/>
+</element>
+<element name="X105" library="364A2595" package="364A2595" value="364A2595" x="15" y="132" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="15" y="132" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="15" y="132" size="1.778" layer="27" rot="R180" display="off"/>
+</element>
+<element name="X104" library="364A2595" package="364A2595" value="364A2595" x="15" y="170" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="15" y="170" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="15" y="170" size="1.778" layer="27" rot="R180" display="off"/>
+</element>
+<element name="X103" library="364A2595" package="364A2595" value="364A2595" x="15" y="208" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="15" y="208" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="15" y="208" size="1.778" layer="27" rot="R180" display="off"/>
+</element>
+<element name="X102" library="364A2595" package="364A2595" value="364A2595" x="14.986" y="245.958" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="14.986" y="245.958" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="14.986" y="245.958" size="1.778" layer="27" rot="R180" display="off"/>
+</element>
+<element name="X101" library="364A2595" package="364A2595" value="364A2595" x="15" y="284" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="15" y="284" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="15" y="284" size="1.778" layer="27" rot="R180" display="off"/>
+</element>
+<element name="X111" library="364A2595" package="364A2595" value="364A2595" x="188" y="19" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="188" y="19" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="188" y="19" size="1.778" layer="27" display="off"/>
+</element>
+<element name="X112" library="364A2595" package="364A2595" value="364A2595" x="188" y="57" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="188" y="57" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="188" y="57" size="1.778" layer="27" display="off"/>
+</element>
+<element name="X113" library="364A2595" package="364A2595" value="364A2595" x="188" y="95" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="188" y="95" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="188" y="95" size="1.778" layer="27" display="off"/>
+</element>
+<element name="X114" library="364A2595" package="364A2595" value="364A2595" x="188" y="133" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595" x="188" y="133" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect" x="188" y="133" size="1.778" layer="27" display="off"/>
+</element>
 <element name="D1" library="XZCBD53W-8" package="DIOC1608X70N" package3d_urn="urn:adsk.eagle:package:30853005/1" value="XZCBD53W-8" x="200" y="259" smashed="yes">
 <attribute name="NAME" x="199.8" y="260.1341" size="0.8" layer="25" align="bottom-center"/>
 <attribute name="VALUE" x="200" y="257.5659" size="1.27" layer="27" align="top-center"/>
@@ -5124,18 +5296,26 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="186.175" y="246.0172" size="1.27" layer="27" ratio="6" rot="SR270"/>
 </element>
 <element name="U20" library="SN74HCS595" package="SOP65P640X120-16N" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595" x="151.5" y="257.75" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SN74HCS595PWR" x="151.5" y="257.75" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Texas Instruments" x="151.5" y="257.75" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="147.7" y="257.7" size="0.8" layer="25" rot="R270" align="bottom-center"/>
 <attribute name="VALUE" x="148.0726" y="257.75" size="1.27" layer="27" rot="R270" align="top-center"/>
 </element>
 <element name="U21" library="SN74HCS595" package="SOP65P640X120-16N" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595" x="137.562" y="257.9635" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SN74HCS595PWR" x="137.562" y="257.9635" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Texas Instruments" x="137.562" y="257.9635" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="137.5" y="261" size="0.8" layer="25" align="bottom-center"/>
 <attribute name="VALUE" x="137.562" y="254.5361" size="1.27" layer="27" align="top-center"/>
 </element>
 <element name="U22" library="SN74HCS595" package="SOP65P640X120-16N" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595" x="137.25" y="247.25" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SN74HCS595PWR" x="137.25" y="247.25" size="1.778" layer="27" display="off"/>
+<attribute name="MFR_NAME" value="Texas Instruments" x="137.25" y="247.25" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="137.2" y="250.3" size="0.8" layer="25" align="bottom-center"/>
 <attribute name="VALUE" x="137.25" y="243.8226" size="1.27" layer="27" align="top-center"/>
 </element>
 <element name="U23" library="SN74HCS595" package="SOP65P640X120-16N" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595" x="151.5" y="247.25" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SN74HCS595PWR" x="151.5" y="247.25" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Texas Instruments" x="151.5" y="247.25" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="147.7" y="247.3" size="0.8" layer="25" rot="R270" align="bottom-center"/>
 <attribute name="VALUE" x="148.0726" y="247.25" size="1.27" layer="27" rot="R270" align="top-center"/>
 </element>
@@ -5146,31 +5326,49 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="204.6635" y="248.2873" size="1.27" layer="27" ratio="6" rot="SR90"/>
 </element>
 <element name="U30" library="LDD-SMHTA304RISITR" package="LDD-SMHTA304RISITR-20DFN" package3d_urn="urn:adsk.eagle:package:30717334/1" value="LDD-SMHTA304RISITR" x="194.167" y="217.0395" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR" x="194.167" y="217.0395" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc." x="194.167" y="217.0395" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="185.4121" y="217.0395" size="0.8" layer="25" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="202.4819" y="217.0395" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
 <element name="U31" library="LDD-SMHTA304RISITR" package="LDD-SMHTA304RISITR-20DFN" package3d_urn="urn:adsk.eagle:package:30717334/1" value="LDD-SMHTA304RISITR" x="140.053" y="158.3975" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR" x="140.053" y="158.3975" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc." x="140.053" y="158.3975" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="148.3679" y="158.3975" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
 <element name="U32" library="LDD-SMHTA304RISITR" package="LDD-SMHTA304RISITR-20DFN" package3d_urn="urn:adsk.eagle:package:30717334/1" value="LDD-SMHTA304RISITR" x="140.053" y="184.1205" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR" x="140.053" y="184.1205" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc." x="140.053" y="184.1205" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="148.3679" y="184.1205" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
 <element name="U33" library="LDD-SMHTA304RISITR" package="LDD-SMHTA304RISITR-20DFN" package3d_urn="urn:adsk.eagle:package:30717334/1" value="LDD-SMHTA304RISITR" x="140.053" y="209.018" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR" x="140.053" y="209.018" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc." x="140.053" y="209.018" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="148.3679" y="209.018" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
 <element name="U34" library="LDD-SMHTA304RISITR" package="LDD-SMHTA304RISITR-20DFN" package3d_urn="urn:adsk.eagle:package:30717334/1" value="LDD-SMHTA304RISITR" x="140.053" y="232.59" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR" x="140.053" y="232.59" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc." x="140.053" y="232.59" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="148.3679" y="232.59" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
 <element name="U35" library="LDD-SMHTA304RISITR" package="LDD-SMHTA304RISITR-20DFN" package3d_urn="urn:adsk.eagle:package:30717334/1" value="LDD-SMHTA304RISITR" x="163.167" y="232.59" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR" x="163.167" y="232.59" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc." x="163.167" y="232.59" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="171.4819" y="232.59" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
 <element name="U36" library="LDD-SMHTA304RISITR" package="LDD-SMHTA304RISITR-20DFN" package3d_urn="urn:adsk.eagle:package:30717334/1" value="LDD-SMHTA304RISITR" x="163.167" y="209.018" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR" x="163.167" y="209.018" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc." x="163.167" y="209.018" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="171.4819" y="209.018" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
 <element name="U37" library="LDD-SMHTA304RISITR" package="LDD-SMHTA304RISITR-20DFN" package3d_urn="urn:adsk.eagle:package:30717334/1" value="LDD-SMHTA304RISITR" x="163.167" y="184.1205" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR" x="163.167" y="184.1205" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc." x="163.167" y="184.1205" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="171.4819" y="184.1205" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
 <element name="U38" library="LDD-SMHTA304RISITR" package="LDD-SMHTA304RISITR-20DFN" package3d_urn="urn:adsk.eagle:package:30717334/1" value="LDD-SMHTA304RISITR" x="163.167" y="158.3975" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR" x="163.167" y="158.3975" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc." x="163.167" y="158.3975" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="171.4819" y="158.3975" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
 <element name="U6" library="TPD4E001RDBVR" package="DBV6" value="" x="189.8" y="256.5" smashed="yes">
@@ -5181,36 +5379,48 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="186.8028" y="253.325" size="1.27" layer="27" ratio="6" rot="SR0"/>
 </element>
 <element name="U3" library="1117" package="TO230P990X240-4N" package3d_urn="urn:adsk.eagle:package:34346510/1" value="NCP1117XXA" x="141.6" y="281.7" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="NCP1117IDTAT4G" x="141.6" y="281.7" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MFR" value="on semi" x="141.6" y="281.7" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="ON Semiconductor" x="141.6" y="281.7" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MFR_PN" value="NCP1117IDTAT4G" x="141.6" y="281.7" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="138.5" y="278" size="0.7" layer="25" rot="R180" align="bottom-center"/>
 <attribute name="VALUE" x="141.6" y="285.7" size="1.27" layer="27" rot="R180" align="top-center"/>
 </element>
 <element name="U4" library="1117" package="TO230P990X240-4N" package3d_urn="urn:adsk.eagle:package:34346510/1" value="NCP1117XXA" x="163.3" y="281.7" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="NCP1117IDTAT4G" x="163.3" y="281.7" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MFR" value="on semi" x="163.3" y="281.7" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="ON Semiconductor" x="163.3" y="281.7" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MFR_PN" value="NCP1117IDTAT4G" x="163.3" y="281.7" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="160.1" y="278" size="0.7" layer="25" rot="R180" align="bottom-center"/>
 <attribute name="VALUE" x="163.3" y="285.7" size="1.27" layer="27" rot="R180" align="top-center"/>
 </element>
 <element name="R33" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="220" x="170.5" y="280.5" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC1608F221CS" x="170.5" y="280.5" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="170.5" y="280.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="173.8" y="280.5" size="0.7" layer="25" rot="R90" align="center"/>
 <attribute name="POPULARITY" value="77" x="170.5" y="280.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="170.5" y="280.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="172.405" y="279.865" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R34" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="360" x="172.6" y="280.5" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER_NAME" value="YAGEO" x="172.6" y="280.5" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0603FR-07360RL" x="172.6" y="280.5" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="174.7" y="280.5" size="0.7" layer="25" rot="R270" align="center"/>
 <attribute name="POPULARITY" value="77" x="172.6" y="280.5" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="172.6" y="280.5" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="170.695" y="281.135" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="R35" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="220" x="148.8" y="280.5" smashed="yes" rot="R90">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC1608F221CS" x="148.8" y="280.5" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="148.8" y="280.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="152.1" y="280.5" size="0.7" layer="25" rot="R90" align="center"/>
 <attribute name="POPULARITY" value="77" x="148.8" y="280.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="148.8" y="280.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="150.705" y="279.865" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R36" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="680" x="150.9" y="280.5" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0603FR-07680RL" x="150.9" y="280.5" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="YAGEO" x="150.9" y="280.5" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="153" y="280.5" size="0.7" layer="25" rot="R270" align="center"/>
 <attribute name="POPULARITY" value="77" x="150.9" y="280.5" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="150.9" y="280.5" size="1.778" layer="27" rot="R270" display="off"/>
@@ -5229,10 +5439,14 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="135.805" y="282.365" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="U5" library="ecs-20xx" package="OSCCC250X200X110N" package3d_urn="urn:adsk.eagle:package:34367365/1" value="ECS-2033-080-AU" x="179" y="275" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="ECS-2033-080-AU" x="179" y="275" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="ECS Incorporated" x="179" y="275" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="179" y="273.2" size="0.7" layer="25" rot="R180" align="center"/>
 <attribute name="VALUE" x="179" y="276.9509" size="1.27" layer="27" rot="R180" align="top-center"/>
 </element>
 <element name="C47" library="resistor" library_urn="urn:adsk.eagle:library:348" package="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="100n" x="179.3" y="277" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC" x="179.3" y="277" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics" x="179.3" y="277" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="179.3" y="278" size="0.7" layer="25" rot="R180" align="center"/>
 <attribute name="VALUE" x="179.935" y="278.905" size="1.27" layer="27" rot="R180"/>
 </element>

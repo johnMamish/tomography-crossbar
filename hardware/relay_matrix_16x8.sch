@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -18392,98 +18392,362 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="K122" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
 <part name="K121" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
 <part name="K120" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="U21" library="SN74HCS595" deviceset="SN74HCS595" device="" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595"/>
-<part name="U22" library="SN74HCS595" deviceset="SN74HCS595" device="" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595"/>
-<part name="U23" library="SN74HCS595" deviceset="SN74HCS595" device="" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595"/>
-<part name="U31" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1"/>
-<part name="U32" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1"/>
+<part name="U21" library="SN74HCS595" deviceset="SN74HCS595" device="" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SN74HCS595PWR"/>
+<attribute name="MFR_NAME" value="Texas Instruments"/>
+</part>
+<part name="U22" library="SN74HCS595" deviceset="SN74HCS595" device="" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SN74HCS595PWR"/>
+<attribute name="MFR_NAME" value="Texas Instruments"/>
+</part>
+<part name="U23" library="SN74HCS595" deviceset="SN74HCS595" device="" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SN74HCS595PWR"/>
+<attribute name="MFR_NAME" value="Texas Instruments"/>
+</part>
+<part name="U31" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc."/>
+</part>
+<part name="U32" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc."/>
+</part>
 <part name="R1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
 <part name="R2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
-<part name="U33" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1"/>
+<part name="U33" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc."/>
+</part>
 <part name="R3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
-<part name="U35" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1"/>
+<part name="U35" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc."/>
+</part>
 <part name="R4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
-<part name="U34" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1"/>
+<part name="U34" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc."/>
+</part>
 <part name="R5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
-<part name="U36" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1"/>
+<part name="U36" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc."/>
+</part>
 <part name="R6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
-<part name="U37" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1"/>
+<part name="U37" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc."/>
+</part>
 <part name="R7" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
-<part name="U38" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1"/>
+<part name="U38" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc."/>
+</part>
 <part name="R8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
-<part name="U20" library="SN74HCS595" deviceset="SN74HCS595" device="" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595"/>
-<part name="C4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF"/>
-<part name="C1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF"/>
-<part name="C2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF"/>
-<part name="C3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF"/>
+<part name="U20" library="SN74HCS595" deviceset="SN74HCS595" device="" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SN74HCS595PWR"/>
+<attribute name="MFR_NAME" value="Texas Instruments"/>
+</part>
+<part name="C4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
 <part name="U2" library="cp2102" deviceset="CP2102N-A02-GQFN24R" device=""/>
-<part name="C5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="4.7uF"/>
-<part name="C6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF"/>
-<part name="R9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="1k"/>
-<part name="X3" library="SJ1-3523NG" deviceset="SJ1-3523NG" device=""/>
-<part name="X4" library="SJ1-3523NG" deviceset="SJ1-3523NG" device=""/>
-<part name="X5" library="SJ1-3523NG" deviceset="SJ1-3523NG" device=""/>
+<part name="C5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="4.7uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL10A475KA8NQNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value=".1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="R9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="1k">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CRG0402F1K0"/>
+<attribute name="MFR_NAME" value="TE Connectivity Passive Product"/>
+</part>
+<part name="X3" library="SJ1-3523NG" deviceset="SJ1-3523NG" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SJ1-3523NG"/>
+<attribute name="MFR_NAME" value="CUI Devices"/>
+</part>
+<part name="X4" library="SJ1-3523NG" deviceset="SJ1-3523NG" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SJ1-3523NG"/>
+<attribute name="MFR_NAME" value="CUI Devices"/>
+</part>
+<part name="X5" library="SJ1-3523NG" deviceset="SJ1-3523NG" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="SJ1-3523NG"/>
+<attribute name="MFR_NAME" value="CUI Devices"/>
+</part>
 <part name="S1" library="100DP1T2B4M6QE" deviceset="100DP1T2B4M7QE" device=""/>
 <part name="X1" library="2171790001" deviceset="2171790001" device="" value="2171790001"/>
-<part name="R10" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="5.1k"/>
-<part name="R11" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="5.1k"/>
-<part name="R12" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="47.5k"/>
-<part name="R13" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="22.1k"/>
-<part name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF"/>
-<part name="C8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF"/>
-<part name="C11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF"/>
-<part name="C12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF"/>
-<part name="X2" library="FTSH-105-01-F-DV-007-K-P" deviceset="FTSH-105-01-F-DV-007-K-P" device=""/>
-<part name="R14" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="10kohm"/>
-<part name="C13" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1nF"/>
-<part name="S2" library="fsm4jsma" deviceset="TE_FSM4JSMA" device=""/>
+<part name="R10" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="5.1k">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0402FR-075K1L"/>
+<attribute name="MFR_NAME" value="YAGEO"/>
+</part>
+<part name="R11" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="5.1k">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0402FR-075K1L"/>
+<attribute name="MFR_NAME" value="YAGEO"/>
+</part>
+<part name="R12" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="47.5k">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RMCF0402FT47K5"/>
+<attribute name="MFR_NAME" value="Stackpole Electronics Inc"/>
+</part>
+<part name="R13" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="22.1k">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0402FR-0722K1L"/>
+<attribute name="MFR_NAME" value="YAGEO"/>
+</part>
+<part name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF">
+<spice>
+<pinmapping spiceprefix="C">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL21A106KAYNNNE"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF">
+<spice>
+<pinmapping spiceprefix="C">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL21A106KAYNNNE"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF">
+<spice>
+<pinmapping spiceprefix="C">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL21A106KAYNNNE"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uF">
+<spice>
+<pinmapping spiceprefix="C">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL21A106KAYNNNE"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="X2" library="FTSH-105-01-F-DV-007-K-P" deviceset="FTSH-105-01-F-DV-007-K-P" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="FTSH-105-01-F-DV-007-K-P"/>
+<attribute name="MFR_NAME" value="Samtec"/>
+</part>
+<part name="R14" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="10kohm">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC1005F103CS"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C13" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.01uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="GCM155R71H103KA55D"/>
+<attribute name="MFR_NAME" value="Murata Electronics"/>
+</part>
+<part name="S2" library="fsm4jsma" deviceset="TE_FSM4JSMA" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="FSM4JSMA"/>
+<attribute name="MFR_NAME" value="TE Connectivity"/>
+</part>
 <part name="U$131" library="uart_3pin_header" deviceset="3PIN_UART_HEADER" device="" package3d_urn="urn:adsk.eagle:package:30772618/1"/>
-<part name="X108" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X107" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X106" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X105" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X104" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X103" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X102" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X101" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X111" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X112" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X113" library="364A2595" deviceset="364A2595" device=""/>
-<part name="X114" library="364A2595" deviceset="364A2595" device=""/>
-<part name="C14" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C15" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C16" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C17" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C19" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C20" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C21" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C22" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C23" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C24" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C25" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C26" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C27" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C28" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C29" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C30" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C18" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C31" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C32" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C33" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C34" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C35" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C36" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C37" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C38" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C39" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C40" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C41" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C42" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C43" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C44" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C45" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
+<part name="X108" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X107" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X106" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X105" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X104" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X103" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X102" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X101" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X111" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X112" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X113" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="X114" library="364A2595" deviceset="364A2595" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="364A2595"/>
+<attribute name="MFR_NAME" value="Winchester Interconnect"/>
+</part>
+<part name="C14" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C15" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C16" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C17" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C19" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C20" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C21" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C22" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C23" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C24" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C25" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C26" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C27" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C28" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C29" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C30" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C18" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C31" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C32" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C33" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C34" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C35" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C36" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C37" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C38" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C39" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C40" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C41" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C42" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C43" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C44" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C45" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
 <part name="R15" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
 <part name="R16" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
 <part name="R17" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
@@ -18500,26 +18764,65 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="R28" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
 <part name="R29" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
 <part name="R30" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
-<part name="U30" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1"/>
+<part name="U30" library="LDD-SMHTA304RISITR" deviceset="LDD-SMHTA304RISITR" device="" package3d_urn="urn:adsk.eagle:package:30717334/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="LDD-SMHTA304RISITR"/>
+<attribute name="MFR_NAME" value="Lumex Opto/Components Inc."/>
+</part>
 <part name="R31" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2"/>
 <part name="J6" library="CT3151" deviceset="CT3151" device=""/>
 <part name="J7" library="CT3151" deviceset="CT3151" device=""/>
 <part name="J8" library="CT3151" deviceset="CT3151" device=""/>
 <part name="U6" library="TPD4E001RDBVR" deviceset="TPD4E001RDBVR" device=""/>
-<part name="C46" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF"/>
-<part name="R32" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="470ohm"/>
+<part name="C46" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="R32" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:26058/2" value="470ohm">
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0402JR-07470RL"/>
+<attribute name="MFR_NAME" value="YAGEO"/>
+</part>
 <part name="D2" library="XZCBD53W-8" deviceset="XZCBD53W-8" device="" package3d_urn="urn:adsk.eagle:package:30853005/1" value="XZCBD53W-8"/>
 <part name="D1" library="XZCBD53W-8" deviceset="XZCBD53W-8" device="" package3d_urn="urn:adsk.eagle:package:30853005/1" value="XZCBD53W-8"/>
-<part name="C106" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF"/>
-<part name="C101" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF"/>
-<part name="C105" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
-<part name="C102" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF"/>
-<part name="C103" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.01uF"/>
-<part name="C104" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.01uF"/>
-<part name="C108" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="2.2uF"/>
-<part name="C107" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF"/>
-<part name="C109" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF"/>
-<part name="C110" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF"/>
+<part name="C106" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C101" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C105" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C102" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C103" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.01uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="GCM155R71H103KA55D"/>
+<attribute name="MFR_NAME" value="Murata Electronics"/>
+</part>
+<part name="C104" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.01uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="GCM155R71H103KA55D"/>
+<attribute name="MFR_NAME" value="Murata Electronics"/>
+</part>
+<part name="C108" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="2.2uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL10A225KO8NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C107" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C109" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="0.1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="C110" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="1uF">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05A105KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+12V" device=""/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -18552,23 +18855,71 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="GND25" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND26" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND27" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="U3" library="1117" deviceset="NCP1117XXA" device="" package3d_urn="urn:adsk.eagle:package:34346510/1"/>
-<part name="U4" library="1117" deviceset="NCP1117XXA" device="" package3d_urn="urn:adsk.eagle:package:34346510/1"/>
+<part name="U3" library="1117" deviceset="NCP1117XXA" device="" package3d_urn="urn:adsk.eagle:package:34346510/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="NCP1117IDTAT4G"/>
+<attribute name="MFR_NAME" value="ON Semiconductor"/>
+</part>
+<part name="U4" library="1117" deviceset="NCP1117XXA" device="" package3d_urn="urn:adsk.eagle:package:34346510/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="NCP1117IDTAT4G"/>
+<attribute name="MFR_NAME" value="ON Semiconductor"/>
+</part>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R33" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="220"/>
-<part name="R34" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="360"/>
+<part name="R33" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="220">
+<spice>
+<pinmapping spiceprefix="R">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC1608F221CS"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="R34" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="360">
+<spice>
+<pinmapping spiceprefix="R">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+<attribute name="MANUFACTURER_NAME" value="YAGEO"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0603FR-07360RL"/>
+</part>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R35" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="220"/>
-<part name="R36" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="680"/>
+<part name="R35" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="220">
+<spice>
+<pinmapping spiceprefix="R">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC1608F221CS"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
+<part name="R36" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="680">
+<spice>
+<pinmapping spiceprefix="R">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0603FR-07680RL"/>
+<attribute name="MFR_NAME" value="YAGEO"/>
+</part>
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R37" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1"/>
 <part name="R38" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1"/>
-<part name="U5" library="ecs-20xx" deviceset="ECS-2033-080-AU" device="" package3d_urn="urn:adsk.eagle:package:34367365/1"/>
+<part name="U5" library="ecs-20xx" deviceset="ECS-2033-080-AU" device="" package3d_urn="urn:adsk.eagle:package:34367365/1">
+<attribute name="MANUFACTURER_PART_NUMBER" value="ECS-2033-080-AU"/>
+<attribute name="MFR_NAME" value="ECS Incorporated"/>
+</part>
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C47" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="100n"/>
+<part name="C47" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0402" package3d_urn="urn:adsk.eagle:package:23626/2" value="100n">
+<attribute name="MANUFACTURER_PART_NUMBER" value="CL05B104KO5NNNC"/>
+<attribute name="MFR_NAME" value="Samsung Electro-Mechanics"/>
+</part>
 <part name="GND28" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 </parts>
 <sheets>
@@ -18584,61 +18935,91 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </instance>
 <instance part="X2" gate="G$1" x="139.7" y="21.59" smashed="yes">
 <attribute name="NAME" x="140.335" y="22.225" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="139.7" y="21.59" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="139.7" y="21.59" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R14" gate="G$1" x="129.54" y="-17.78" smashed="yes" rot="R90">
 <attribute name="NAME" x="128.0414" y="-21.59" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="132.842" y="-21.59" size="1.778" layer="96" rot="R90"/>
+<attribute name="MFR_NAME" x="129.54" y="-17.78" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="129.54" y="-17.78" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C13" gate="G$1" x="129.54" y="-30.48" smashed="yes">
 <attribute name="NAME" x="130.556" y="-29.845" size="1.778" layer="95"/>
 <attribute name="VALUE" x="130.556" y="-34.671" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="129.54" y="-30.48" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="129.54" y="-30.48" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="S2" gate="G$1" x="160.02" y="-22.86" smashed="yes">
 <attribute name="NAME" x="154.94" y="-16.51" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="160.02" y="-22.86" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="160.02" y="-22.86" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R32" gate="G$1" x="139.7" y="-25.4" smashed="yes">
 <attribute name="NAME" x="135.89" y="-23.9014" size="1.778" layer="95"/>
 <attribute name="VALUE" x="135.89" y="-28.702" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="139.7" y="-25.4" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="139.7" y="-25.4" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C106" gate="G$1" x="35.56" y="36.83" smashed="yes">
 <attribute name="NAME" x="36.576" y="37.465" size="1.778" layer="95"/>
 <attribute name="VALUE" x="36.576" y="32.639" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="35.56" y="36.83" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="35.56" y="36.83" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C101" gate="G$1" x="24.13" y="36.83" smashed="yes">
 <attribute name="NAME" x="25.146" y="37.465" size="1.778" layer="95"/>
 <attribute name="VALUE" x="25.146" y="32.639" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="24.13" y="36.83" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="24.13" y="36.83" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C105" gate="G$1" x="13.97" y="36.83" smashed="yes">
 <attribute name="NAME" x="14.986" y="37.465" size="1.778" layer="95"/>
 <attribute name="VALUE" x="14.986" y="32.639" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="13.97" y="36.83" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="13.97" y="36.83" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C102" gate="G$1" x="3.81" y="36.83" smashed="yes">
 <attribute name="NAME" x="4.826" y="37.465" size="1.778" layer="95"/>
 <attribute name="VALUE" x="4.826" y="32.639" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="3.81" y="36.83" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="3.81" y="36.83" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C103" gate="G$1" x="-6.35" y="36.83" smashed="yes">
 <attribute name="NAME" x="-5.334" y="37.465" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-5.334" y="32.639" size="1.778" layer="96"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="-6.35" y="36.83" size="1.778" layer="96" display="off"/>
+<attribute name="MFR_NAME" x="-6.35" y="36.83" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C104" gate="G$1" x="-13.97" y="36.83" smashed="yes">
 <attribute name="NAME" x="-12.954" y="37.465" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-12.954" y="32.639" size="1.778" layer="96"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="-13.97" y="36.83" size="1.778" layer="96" display="off"/>
+<attribute name="MFR_NAME" x="-13.97" y="36.83" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C108" gate="G$1" x="-6.35" y="-1.27" smashed="yes">
 <attribute name="NAME" x="-5.334" y="-0.635" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-5.334" y="-5.461" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="-6.35" y="-1.27" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="-6.35" y="-1.27" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C107" gate="G$1" x="-13.97" y="-1.27" smashed="yes">
 <attribute name="NAME" x="-12.954" y="-0.635" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-12.954" y="-5.461" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="-13.97" y="-1.27" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="-13.97" y="-1.27" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C109" gate="G$1" x="12.7" y="-10.16" smashed="yes">
 <attribute name="NAME" x="13.716" y="-9.525" size="1.778" layer="95"/>
 <attribute name="VALUE" x="13.716" y="-14.351" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="12.7" y="-10.16" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="12.7" y="-10.16" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C110" gate="G$1" x="20.32" y="-10.16" smashed="yes">
 <attribute name="NAME" x="21.336" y="-9.525" size="1.778" layer="95"/>
 <attribute name="VALUE" x="21.336" y="-14.351" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="20.32" y="-10.16" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="20.32" y="-10.16" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="GND10" gate="1" x="172.72" y="-30.48" smashed="yes">
 <attribute name="VALUE" x="170.18" y="-33.02" size="1.778" layer="96"/>
@@ -18700,7 +19081,10 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="GND22" gate="1" x="20.32" y="-20.32" smashed="yes">
 <attribute name="VALUE" x="17.78" y="-22.86" size="1.778" layer="96"/>
 </instance>
-<instance part="U5" gate="G$1" x="144.78" y="-53.34" smashed="yes"/>
+<instance part="U5" gate="G$1" x="144.78" y="-53.34" smashed="yes">
+<attribute name="MANUFACTURER_PART_NUMBER" x="144.78" y="-53.34" size="1.778" layer="96" display="off"/>
+<attribute name="MFR_NAME" x="144.78" y="-53.34" size="1.778" layer="96" display="off"/>
+</instance>
 <instance part="P+2" gate="VCC" x="137.16" y="-50.8" smashed="yes">
 <attribute name="VALUE" x="134.62" y="-53.34" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -18710,6 +19094,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="C47" gate="G$1" x="132.08" y="-63.5" smashed="yes">
 <attribute name="NAME" x="133.096" y="-62.865" size="1.778" layer="95"/>
 <attribute name="VALUE" x="133.096" y="-67.691" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="132.08" y="-63.5" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="132.08" y="-63.5" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="GND28" gate="1" x="132.08" y="-72.39" smashed="yes">
 <attribute name="VALUE" x="129.54" y="-74.93" size="1.778" layer="96"/>
@@ -19156,26 +19542,38 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="C7" gate="G$1" x="15.24" y="-40.64" smashed="yes">
 <attribute name="NAME" x="16.256" y="-40.005" size="1.778" layer="95"/>
 <attribute name="VALUE" x="16.256" y="-44.831" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="15.24" y="-40.64" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="15.24" y="-40.64" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C8" gate="G$1" x="58.42" y="-100.33" smashed="yes">
 <attribute name="NAME" x="59.436" y="-99.695" size="1.778" layer="95"/>
 <attribute name="VALUE" x="59.436" y="-104.521" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="58.42" y="-100.33" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="58.42" y="-100.33" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C9" gate="G$1" x="59.69" y="-57.15" smashed="yes">
 <attribute name="NAME" x="60.706" y="-56.515" size="1.778" layer="95"/>
 <attribute name="VALUE" x="60.706" y="-61.341" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="59.69" y="-57.15" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="59.69" y="-57.15" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C10" gate="G$1" x="15.24" y="-83.82" smashed="yes">
 <attribute name="NAME" x="16.256" y="-83.185" size="1.778" layer="95"/>
 <attribute name="VALUE" x="16.256" y="-88.011" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="15.24" y="-83.82" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="15.24" y="-83.82" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C11" gate="G$1" x="66.04" y="-53.34" smashed="yes">
 <attribute name="NAME" x="67.056" y="-52.705" size="1.778" layer="95"/>
 <attribute name="VALUE" x="67.056" y="-57.531" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="66.04" y="-53.34" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="66.04" y="-53.34" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C12" gate="G$1" x="66.04" y="-96.52" smashed="yes">
 <attribute name="NAME" x="67.056" y="-95.885" size="1.778" layer="95"/>
 <attribute name="VALUE" x="67.056" y="-100.711" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="66.04" y="-96.52" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="66.04" y="-96.52" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="J6" gate="A" x="0" y="15.24" smashed="yes">
 <attribute name="NAME" x="4.1656" y="20.5486" size="2.0828" layer="95" ratio="6" rot="SR0"/>
@@ -19217,26 +19615,38 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="C5" gate="G$1" x="187.96" y="-64.77" smashed="yes">
 <attribute name="NAME" x="188.976" y="-64.135" size="1.778" layer="95"/>
 <attribute name="VALUE" x="188.976" y="-68.961" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="187.96" y="-64.77" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="187.96" y="-64.77" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C6" gate="G$1" x="195.58" y="-64.77" smashed="yes">
 <attribute name="NAME" x="196.596" y="-64.135" size="1.778" layer="95"/>
 <attribute name="VALUE" x="196.596" y="-68.961" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="195.58" y="-64.77" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="195.58" y="-64.77" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="R9" gate="G$1" x="205.74" y="-77.47" smashed="yes">
 <attribute name="NAME" x="201.93" y="-75.9714" size="1.778" layer="95"/>
 <attribute name="VALUE" x="201.93" y="-80.772" size="1.778" layer="96"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="205.74" y="-77.47" size="1.778" layer="96" display="off"/>
+<attribute name="MFR_NAME" x="205.74" y="-77.47" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X3" gate="G$1" x="220.98" y="5.08" smashed="yes">
 <attribute name="NAME" x="210.8101" y="12.70741875" size="2.54246875" layer="95"/>
 <attribute name="VALUE" x="210.8192" y="-5.0808" size="2.540190625" layer="96"/>
+<attribute name="MFR_NAME" x="220.98" y="5.08" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="220.98" y="5.08" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X4" gate="G$1" x="261.62" y="5.08" smashed="yes">
 <attribute name="NAME" x="251.4501" y="12.70741875" size="2.54246875" layer="95"/>
 <attribute name="VALUE" x="251.4592" y="-5.0808" size="2.540190625" layer="96"/>
+<attribute name="MFR_NAME" x="261.62" y="5.08" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="261.62" y="5.08" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X5" gate="G$1" x="220.98" y="-22.86" smashed="yes">
 <attribute name="NAME" x="210.8101" y="-15.23258125" size="2.54246875" layer="95"/>
 <attribute name="VALUE" x="210.8192" y="-33.0208" size="2.540190625" layer="96"/>
+<attribute name="MFR_NAME" x="220.98" y="-22.86" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="220.98" y="-22.86" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="S1" gate="A" x="266.7" y="-20.32" smashed="yes">
 <attribute name="NAME" x="274.6756" y="-16.2814" size="2.0828" layer="95" ratio="6" rot="SR0"/>
@@ -19249,18 +19659,26 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="R10" gate="G$1" x="96.52" y="-83.82" smashed="yes" rot="R90">
 <attribute name="NAME" x="95.0214" y="-87.63" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="99.822" y="-87.63" size="1.778" layer="96" rot="R90"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="96.52" y="-83.82" size="1.778" layer="96" display="off"/>
+<attribute name="MFR_NAME" x="96.52" y="-83.82" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R11" gate="G$1" x="105.41" y="-83.82" smashed="yes" rot="R90">
 <attribute name="NAME" x="103.9114" y="-87.63" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="108.712" y="-87.63" size="1.778" layer="96" rot="R90"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="105.41" y="-83.82" size="1.778" layer="96" display="off"/>
+<attribute name="MFR_NAME" x="105.41" y="-83.82" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R12" gate="G$1" x="127" y="-41.91" smashed="yes" rot="MR90">
 <attribute name="NAME" x="128.4986" y="-45.72" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="123.698" y="-45.72" size="1.778" layer="96" rot="MR90"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="127" y="-41.91" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="MFR_NAME" x="127" y="-41.91" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="R13" gate="G$1" x="127" y="-26.67" smashed="yes" rot="MR90">
 <attribute name="NAME" x="128.4986" y="-30.48" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="123.698" y="-30.48" size="1.778" layer="96" rot="MR90"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="127" y="-26.67" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="MFR_NAME" x="127" y="-26.67" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="U$131" gate="G$1" x="318.77" y="1.27" smashed="yes">
 <attribute name="NAME" x="318.77" y="6.35" size="1.778" layer="95"/>
@@ -19273,6 +19691,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="C46" gate="G$1" x="139.7" y="-17.78" smashed="yes">
 <attribute name="NAME" x="140.716" y="-17.145" size="1.778" layer="95"/>
 <attribute name="VALUE" x="140.716" y="-21.971" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="139.7" y="-17.78" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="139.7" y="-17.78" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND23" gate="1" x="168.91" y="-72.39" smashed="yes">
 <attribute name="VALUE" x="166.37" y="-74.93" size="1.778" layer="96"/>
@@ -19299,9 +19719,13 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </instance>
 <instance part="U3" gate="G$1" x="22.86" y="-76.2" smashed="yes">
 <attribute name="NAME" x="22.86" y="-75.565" size="1.778" layer="95"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="22.86" y="-76.2" size="1.778" layer="96" display="off"/>
+<attribute name="MFR_NAME" x="22.86" y="-76.2" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U4" gate="G$1" x="22.86" y="-33.02" smashed="yes">
 <attribute name="NAME" x="22.86" y="-32.385" size="1.778" layer="95"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="22.86" y="-33.02" size="1.778" layer="96" display="off"/>
+<attribute name="MFR_NAME" x="22.86" y="-33.02" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND1" gate="1" x="66.04" y="-110.49" smashed="yes">
 <attribute name="VALUE" x="63.5" y="-113.03" size="1.778" layer="96"/>
@@ -19309,10 +19733,14 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="R33" gate="G$1" x="52.07" y="-43.18" smashed="yes" rot="R90">
 <attribute name="NAME" x="50.5714" y="-46.99" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="55.372" y="-46.99" size="1.778" layer="96" rot="R90"/>
+<attribute name="MFR_NAME" x="52.07" y="-43.18" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="52.07" y="-43.18" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R34" gate="G$1" x="52.07" y="-58.42" smashed="yes" rot="R90">
 <attribute name="NAME" x="50.5714" y="-62.23" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="55.372" y="-62.23" size="1.778" layer="96" rot="R90"/>
+<attribute name="MANUFACTURER_NAME" x="52.07" y="-58.42" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="52.07" y="-58.42" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="GND5" gate="1" x="52.07" y="-67.31" smashed="yes">
 <attribute name="VALUE" x="49.53" y="-69.85" size="1.778" layer="96"/>
@@ -19323,10 +19751,14 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="R35" gate="G$1" x="52.07" y="-86.36" smashed="yes" rot="R90">
 <attribute name="NAME" x="50.5714" y="-90.17" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="55.372" y="-90.17" size="1.778" layer="96" rot="R90"/>
+<attribute name="MFR_NAME" x="52.07" y="-86.36" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="52.07" y="-86.36" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R36" gate="G$1" x="52.07" y="-101.6" smashed="yes" rot="R90">
 <attribute name="NAME" x="50.5714" y="-105.41" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="55.372" y="-105.41" size="1.778" layer="96" rot="R90"/>
+<attribute name="MFR_NAME" x="52.07" y="-101.6" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="52.07" y="-101.6" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="GND7" gate="1" x="52.07" y="-110.49" smashed="yes">
 <attribute name="VALUE" x="49.53" y="-113.03" size="1.778" layer="96"/>
@@ -19918,130 +20350,194 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="C14" gate="G$1" x="68.58" y="30.48" smashed="yes">
 <attribute name="NAME" x="69.596" y="31.115" size="1.778" layer="95"/>
 <attribute name="VALUE" x="69.596" y="26.289" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="68.58" y="30.48" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="68.58" y="30.48" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C15" gate="G$1" x="68.58" y="78.74" smashed="yes">
 <attribute name="NAME" x="69.596" y="79.375" size="1.778" layer="95"/>
 <attribute name="VALUE" x="69.596" y="74.549" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="68.58" y="78.74" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="68.58" y="78.74" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C16" gate="G$1" x="68.58" y="127" smashed="yes">
 <attribute name="NAME" x="69.596" y="127.635" size="1.778" layer="95"/>
 <attribute name="VALUE" x="69.596" y="122.809" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="68.58" y="127" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="68.58" y="127" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C17" gate="G$1" x="68.58" y="175.26" smashed="yes">
 <attribute name="NAME" x="69.596" y="175.895" size="1.778" layer="95"/>
 <attribute name="VALUE" x="69.596" y="171.069" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="68.58" y="175.26" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="68.58" y="175.26" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C19" gate="G$1" x="152.4" y="172.72" smashed="yes">
 <attribute name="NAME" x="153.416" y="173.355" size="1.778" layer="95"/>
 <attribute name="VALUE" x="153.416" y="168.529" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="152.4" y="172.72" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="152.4" y="172.72" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C20" gate="G$1" x="152.4" y="127" smashed="yes">
 <attribute name="NAME" x="153.416" y="127.635" size="1.778" layer="95"/>
 <attribute name="VALUE" x="153.416" y="122.809" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="152.4" y="127" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="152.4" y="127" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C21" gate="G$1" x="152.4" y="78.74" smashed="yes">
 <attribute name="NAME" x="153.416" y="79.375" size="1.778" layer="95"/>
 <attribute name="VALUE" x="153.416" y="74.549" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="152.4" y="78.74" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="152.4" y="78.74" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C22" gate="G$1" x="152.4" y="30.48" smashed="yes">
 <attribute name="NAME" x="153.416" y="31.115" size="1.778" layer="95"/>
 <attribute name="VALUE" x="153.416" y="26.289" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="152.4" y="30.48" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="152.4" y="30.48" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C23" gate="G$1" x="238.76" y="30.48" smashed="yes">
 <attribute name="NAME" x="239.776" y="31.115" size="1.778" layer="95"/>
 <attribute name="VALUE" x="239.776" y="26.289" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="238.76" y="30.48" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="238.76" y="30.48" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C24" gate="G$1" x="238.76" y="78.74" smashed="yes">
 <attribute name="NAME" x="239.776" y="79.375" size="1.778" layer="95"/>
 <attribute name="VALUE" x="239.776" y="74.549" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="238.76" y="78.74" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="238.76" y="78.74" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C25" gate="G$1" x="317.5" y="27.94" smashed="yes">
 <attribute name="NAME" x="318.516" y="28.575" size="1.778" layer="95"/>
 <attribute name="VALUE" x="318.516" y="23.749" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="317.5" y="27.94" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="317.5" y="27.94" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C26" gate="G$1" x="317.5" y="76.2" smashed="yes">
 <attribute name="NAME" x="318.516" y="76.835" size="1.778" layer="95"/>
 <attribute name="VALUE" x="318.516" y="72.009" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="317.5" y="76.2" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="317.5" y="76.2" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C27" gate="G$1" x="317.5" y="124.46" smashed="yes">
 <attribute name="NAME" x="318.516" y="125.095" size="1.778" layer="95"/>
 <attribute name="VALUE" x="318.516" y="120.269" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="317.5" y="124.46" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="317.5" y="124.46" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C28" gate="G$1" x="317.5" y="170.18" smashed="yes">
 <attribute name="NAME" x="318.516" y="170.815" size="1.778" layer="95"/>
 <attribute name="VALUE" x="318.516" y="165.989" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="317.5" y="170.18" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="317.5" y="170.18" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C29" gate="G$1" x="238.76" y="170.18" smashed="yes">
 <attribute name="NAME" x="239.776" y="170.815" size="1.778" layer="95"/>
 <attribute name="VALUE" x="239.776" y="165.989" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="238.76" y="170.18" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="238.76" y="170.18" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C30" gate="G$1" x="238.76" y="127" smashed="yes">
 <attribute name="NAME" x="239.776" y="127.635" size="1.778" layer="95"/>
 <attribute name="VALUE" x="239.776" y="122.809" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="238.76" y="127" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="238.76" y="127" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C18" gate="G$1" x="63.5" y="7.62" smashed="yes">
 <attribute name="NAME" x="64.516" y="8.255" size="1.778" layer="95"/>
 <attribute name="VALUE" x="64.516" y="3.429" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="63.5" y="7.62" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="63.5" y="7.62" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C31" gate="G$1" x="63.5" y="55.88" smashed="yes">
 <attribute name="NAME" x="64.516" y="56.515" size="1.778" layer="95"/>
 <attribute name="VALUE" x="64.516" y="51.689" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="63.5" y="55.88" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="63.5" y="55.88" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C32" gate="G$1" x="63.5" y="104.14" smashed="yes">
 <attribute name="NAME" x="64.516" y="104.775" size="1.778" layer="95"/>
 <attribute name="VALUE" x="64.516" y="99.949" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="63.5" y="104.14" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="63.5" y="104.14" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C33" gate="G$1" x="63.5" y="152.4" smashed="yes">
 <attribute name="NAME" x="64.516" y="153.035" size="1.778" layer="95"/>
 <attribute name="VALUE" x="64.516" y="148.209" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="63.5" y="152.4" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="63.5" y="152.4" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C34" gate="G$1" x="147.32" y="149.86" smashed="yes">
 <attribute name="NAME" x="148.336" y="150.495" size="1.778" layer="95"/>
 <attribute name="VALUE" x="148.336" y="145.669" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="147.32" y="149.86" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="147.32" y="149.86" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C35" gate="G$1" x="147.32" y="104.14" smashed="yes">
 <attribute name="NAME" x="148.336" y="104.775" size="1.778" layer="95"/>
 <attribute name="VALUE" x="148.336" y="99.949" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="147.32" y="104.14" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="147.32" y="104.14" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C36" gate="G$1" x="147.32" y="55.88" smashed="yes">
 <attribute name="NAME" x="148.336" y="56.515" size="1.778" layer="95"/>
 <attribute name="VALUE" x="148.336" y="51.689" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="147.32" y="55.88" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="147.32" y="55.88" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C37" gate="G$1" x="147.32" y="7.62" smashed="yes">
 <attribute name="NAME" x="148.336" y="8.255" size="1.778" layer="95"/>
 <attribute name="VALUE" x="148.336" y="3.429" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="147.32" y="7.62" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="147.32" y="7.62" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C38" gate="G$1" x="233.68" y="7.62" smashed="yes">
 <attribute name="NAME" x="234.696" y="8.255" size="1.778" layer="95"/>
 <attribute name="VALUE" x="234.696" y="3.429" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="233.68" y="7.62" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="233.68" y="7.62" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C39" gate="G$1" x="233.68" y="55.88" smashed="yes">
 <attribute name="NAME" x="234.696" y="56.515" size="1.778" layer="95"/>
 <attribute name="VALUE" x="234.696" y="51.689" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="233.68" y="55.88" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="233.68" y="55.88" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C40" gate="G$1" x="233.68" y="104.14" smashed="yes">
 <attribute name="NAME" x="234.696" y="104.775" size="1.778" layer="95"/>
 <attribute name="VALUE" x="234.696" y="99.949" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="233.68" y="104.14" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="233.68" y="104.14" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C41" gate="G$1" x="233.68" y="147.32" smashed="yes">
 <attribute name="NAME" x="234.696" y="147.955" size="1.778" layer="95"/>
 <attribute name="VALUE" x="234.696" y="143.129" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="233.68" y="147.32" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="233.68" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C42" gate="G$1" x="312.42" y="147.32" smashed="yes">
 <attribute name="NAME" x="313.436" y="147.955" size="1.778" layer="95"/>
 <attribute name="VALUE" x="313.436" y="143.129" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="312.42" y="147.32" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="312.42" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C43" gate="G$1" x="312.42" y="99.06" smashed="yes">
 <attribute name="NAME" x="313.436" y="99.695" size="1.778" layer="95"/>
 <attribute name="VALUE" x="313.436" y="94.869" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="312.42" y="99.06" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="312.42" y="99.06" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C44" gate="G$1" x="312.42" y="53.34" smashed="yes">
 <attribute name="NAME" x="313.436" y="53.975" size="1.778" layer="95"/>
 <attribute name="VALUE" x="313.436" y="49.149" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="312.42" y="53.34" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="312.42" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C45" gate="G$1" x="312.42" y="5.08" smashed="yes">
 <attribute name="NAME" x="313.436" y="5.715" size="1.778" layer="95"/>
 <attribute name="VALUE" x="313.436" y="0.889" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="312.42" y="5.08" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="312.42" y="5.08" size="1.778" layer="96" display="off"/>
 </instance>
 </instances>
 <busses>
@@ -25371,22 +25867,32 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U21" gate="G$1" x="22.86" y="17.78" smashed="yes">
 <attribute name="NAME" x="12.954" y="26.416" size="1.778" layer="95"/>
 <attribute name="VALUE" x="12.7" y="0" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="22.86" y="17.78" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="22.86" y="17.78" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U22" gate="G$1" x="22.86" y="-20.32" smashed="yes">
 <attribute name="NAME" x="12.954" y="-11.684" size="1.778" layer="95"/>
 <attribute name="VALUE" x="12.7" y="-38.1" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="22.86" y="-20.32" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="22.86" y="-20.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U23" gate="G$1" x="22.86" y="-58.42" smashed="yes">
 <attribute name="NAME" x="12.954" y="-49.784" size="1.778" layer="95"/>
 <attribute name="VALUE" x="12.7" y="-76.2" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="22.86" y="-58.42" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="22.86" y="-58.42" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U31" gate="G$1" x="149.86" y="91.44" smashed="yes">
 <attribute name="NAME" x="139.954" y="107.442" size="1.778" layer="95"/>
 <attribute name="VALUE" x="139.7" y="76.2" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U32" gate="G$1" x="149.86" y="50.8" smashed="yes">
 <attribute name="NAME" x="139.954" y="66.802" size="1.778" layer="95"/>
 <attribute name="VALUE" x="139.7" y="35.56" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="50.8" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="50.8" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R1" gate="G$1" x="114.3" y="99.06" smashed="yes">
 <attribute name="NAME" x="110.49" y="100.5586" size="1.778" layer="95"/>
@@ -25399,6 +25905,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U33" gate="G$1" x="149.86" y="7.62" smashed="yes">
 <attribute name="NAME" x="139.954" y="23.622" size="1.778" layer="95"/>
 <attribute name="VALUE" x="139.7" y="-7.62" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="7.62" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="7.62" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R3" gate="G$1" x="111.76" y="15.24" smashed="yes">
 <attribute name="NAME" x="107.95" y="16.7386" size="1.778" layer="95"/>
@@ -25407,6 +25915,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U35" gate="G$1" x="226.06" y="91.44" smashed="yes">
 <attribute name="NAME" x="216.154" y="107.442" size="1.778" layer="95"/>
 <attribute name="VALUE" x="215.9" y="76.2" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="226.06" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="226.06" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R4" gate="G$1" x="187.96" y="99.06" smashed="yes">
 <attribute name="NAME" x="184.15" y="100.5586" size="1.778" layer="95"/>
@@ -25415,6 +25925,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U34" gate="G$1" x="149.86" y="-33.02" smashed="yes">
 <attribute name="NAME" x="139.954" y="-17.018" size="1.778" layer="95"/>
 <attribute name="VALUE" x="139.7" y="-48.26" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="-33.02" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="-33.02" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R5" gate="G$1" x="111.76" y="-25.4" smashed="yes">
 <attribute name="NAME" x="107.95" y="-23.9014" size="1.778" layer="95"/>
@@ -25423,6 +25935,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U36" gate="G$1" x="226.06" y="48.26" smashed="yes">
 <attribute name="NAME" x="216.154" y="64.262" size="1.778" layer="95"/>
 <attribute name="VALUE" x="215.9" y="33.02" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="226.06" y="48.26" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="226.06" y="48.26" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R6" gate="G$1" x="187.96" y="55.88" smashed="yes">
 <attribute name="NAME" x="184.15" y="57.3786" size="1.778" layer="95"/>
@@ -25431,6 +25945,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U37" gate="G$1" x="226.06" y="5.08" smashed="yes">
 <attribute name="NAME" x="216.154" y="21.082" size="1.778" layer="95"/>
 <attribute name="VALUE" x="215.9" y="-10.16" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="226.06" y="5.08" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="226.06" y="5.08" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R7" gate="G$1" x="187.96" y="12.7" smashed="yes">
 <attribute name="NAME" x="184.15" y="14.1986" size="1.778" layer="95"/>
@@ -25439,6 +25955,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U38" gate="G$1" x="226.06" y="-33.02" smashed="yes">
 <attribute name="NAME" x="216.154" y="-17.018" size="1.778" layer="95"/>
 <attribute name="VALUE" x="215.9" y="-48.26" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="226.06" y="-33.02" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="226.06" y="-33.02" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R8" gate="G$1" x="187.96" y="-25.4" smashed="yes">
 <attribute name="NAME" x="184.15" y="-23.9014" size="1.778" layer="95"/>
@@ -25447,22 +25965,32 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U20" gate="G$1" x="22.86" y="55.88" smashed="yes">
 <attribute name="NAME" x="12.954" y="64.516" size="1.778" layer="95"/>
 <attribute name="VALUE" x="12.7" y="38.1" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="22.86" y="55.88" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="22.86" y="55.88" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C4" gate="G$1" x="48.26" y="71.12" smashed="yes">
 <attribute name="NAME" x="49.276" y="71.755" size="1.778" layer="95"/>
 <attribute name="VALUE" x="49.276" y="66.929" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="48.26" y="71.12" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="48.26" y="71.12" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C1" gate="G$1" x="53.34" y="33.02" smashed="yes">
 <attribute name="NAME" x="54.356" y="33.655" size="1.778" layer="95"/>
 <attribute name="VALUE" x="54.356" y="28.829" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="53.34" y="33.02" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="53.34" y="33.02" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C2" gate="G$1" x="53.34" y="-5.08" smashed="yes">
 <attribute name="NAME" x="54.356" y="-4.445" size="1.778" layer="95"/>
 <attribute name="VALUE" x="54.356" y="-9.271" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="53.34" y="-5.08" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="53.34" y="-5.08" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C3" gate="G$1" x="53.34" y="-43.18" smashed="yes">
 <attribute name="NAME" x="54.356" y="-42.545" size="1.778" layer="95"/>
 <attribute name="VALUE" x="54.356" y="-47.371" size="1.778" layer="96"/>
+<attribute name="MFR_NAME" x="53.34" y="-43.18" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="53.34" y="-43.18" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R15" gate="G$1" x="-5.08" y="-15.24" smashed="yes">
 <attribute name="NAME" x="-8.89" y="-13.7414" size="1.778" layer="95"/>
@@ -25531,6 +26059,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U30" gate="G$1" x="22.86" y="99.06" smashed="yes">
 <attribute name="NAME" x="12.954" y="115.062" size="1.778" layer="95"/>
 <attribute name="VALUE" x="12.7" y="83.82" size="1.778" layer="95"/>
+<attribute name="MFR_NAME" x="22.86" y="99.06" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="22.86" y="99.06" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R31" gate="G$1" x="-12.7" y="106.68" smashed="yes">
 <attribute name="NAME" x="-16.51" y="108.1786" size="1.778" layer="95"/>
@@ -27069,50 +27599,74 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="X108" gate="G$1" x="12.7" y="12.7" smashed="yes">
 <attribute name="NAME" x="2.54" y="23.368" size="1.27" layer="95"/>
 <attribute name="VALUE" x="2.794" y="1.016" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="12.7" y="12.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="12.7" y="12.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X107" gate="G$1" x="12.7" y="40.64" smashed="yes">
 <attribute name="NAME" x="2.54" y="51.308" size="1.27" layer="95"/>
 <attribute name="VALUE" x="2.794" y="28.956" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="12.7" y="40.64" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="12.7" y="40.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X106" gate="G$1" x="12.7" y="66.04" smashed="yes">
 <attribute name="NAME" x="2.54" y="76.708" size="1.27" layer="95"/>
 <attribute name="VALUE" x="2.794" y="54.356" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="12.7" y="66.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="12.7" y="66.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X105" gate="G$1" x="12.7" y="93.98" smashed="yes">
 <attribute name="NAME" x="2.54" y="104.648" size="1.27" layer="95"/>
 <attribute name="VALUE" x="2.794" y="82.296" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="12.7" y="93.98" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="12.7" y="93.98" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X104" gate="G$1" x="12.7" y="121.92" smashed="yes">
 <attribute name="NAME" x="2.54" y="132.588" size="1.27" layer="95"/>
 <attribute name="VALUE" x="2.794" y="110.236" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="12.7" y="121.92" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="12.7" y="121.92" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X103" gate="G$1" x="12.7" y="149.86" smashed="yes">
 <attribute name="NAME" x="2.54" y="160.528" size="1.27" layer="95"/>
 <attribute name="VALUE" x="2.794" y="138.176" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="12.7" y="149.86" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="12.7" y="149.86" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X102" gate="G$1" x="12.7" y="177.8" smashed="yes">
 <attribute name="NAME" x="2.54" y="188.468" size="1.27" layer="95"/>
 <attribute name="VALUE" x="2.794" y="166.116" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="12.7" y="177.8" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="12.7" y="177.8" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X101" gate="G$1" x="12.7" y="203.2" smashed="yes">
 <attribute name="NAME" x="2.54" y="213.868" size="1.27" layer="95"/>
 <attribute name="VALUE" x="2.794" y="191.516" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="12.7" y="203.2" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="12.7" y="203.2" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X111" gate="G$1" x="55.88" y="203.2" smashed="yes">
 <attribute name="NAME" x="45.72" y="213.868" size="1.27" layer="95"/>
 <attribute name="VALUE" x="45.974" y="191.516" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="55.88" y="203.2" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="55.88" y="203.2" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X112" gate="G$1" x="55.88" y="177.8" smashed="yes">
 <attribute name="NAME" x="45.72" y="188.468" size="1.27" layer="95"/>
 <attribute name="VALUE" x="45.974" y="166.116" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="55.88" y="177.8" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="55.88" y="177.8" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X113" gate="G$1" x="55.88" y="149.86" smashed="yes">
 <attribute name="NAME" x="45.72" y="160.528" size="1.27" layer="95"/>
 <attribute name="VALUE" x="45.974" y="138.176" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="55.88" y="149.86" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="55.88" y="149.86" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X114" gate="G$1" x="55.88" y="121.92" smashed="yes">
 <attribute name="NAME" x="45.72" y="132.588" size="1.27" layer="95"/>
 <attribute name="VALUE" x="45.974" y="110.236" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="55.88" y="121.92" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="55.88" y="121.92" size="1.778" layer="96" display="off"/>
 </instance>
 </instances>
 <busses>
