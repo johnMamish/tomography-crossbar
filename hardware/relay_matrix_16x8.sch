@@ -18264,134 +18264,518 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="U114" library="MIC5891YWM" deviceset="MIC5891YWM-TR" device=""/>
 <part name="U113" library="MIC5891YWM" deviceset="MIC5891YWM-TR" device=""/>
 <part name="U112" library="MIC5891YWM" deviceset="MIC5891YWM-TR" device=""/>
-<part name="K7" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K6" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K5" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K4" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K3" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K2" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K1" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K15" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K14" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K13" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K12" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K11" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K10" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K9" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K23" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K22" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K21" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K20" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K19" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K18" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K17" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K31" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K30" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K29" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K28" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K27" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K26" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K25" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K39" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K38" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K37" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K36" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K35" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K34" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K33" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K47" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K46" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K45" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K44" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K43" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K42" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K41" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K55" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K54" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K53" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K52" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K51" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K50" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K49" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K63" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K62" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K61" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K60" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K59" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K58" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K57" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K71" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K70" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K69" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K68" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K67" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K66" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K65" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K79" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K78" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K77" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K76" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K75" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K74" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K73" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K87" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K86" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K85" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K84" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K83" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K82" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K81" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K0" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K8" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K16" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K24" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K32" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K40" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K48" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K56" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K64" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K72" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K80" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K95" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K94" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K93" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K92" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K91" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K90" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K89" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K88" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K103" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K102" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K101" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K100" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K99" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K98" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K97" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K96" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K111" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K110" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K109" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K108" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K107" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K106" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K105" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K104" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K119" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K118" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K117" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K116" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K115" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K114" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K113" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K112" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K127" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K126" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K125" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K124" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K123" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K122" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K121" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
-<part name="K120" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device=""/>
+<part name="K7" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K6" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K5" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K4" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K3" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K2" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K1" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K15" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K14" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K13" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K12" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K11" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K10" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K9" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K23" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K22" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K21" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K20" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K19" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K18" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K17" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K31" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K30" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K29" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K28" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K27" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K26" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K25" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K39" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K38" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K37" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K36" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K35" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K34" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K33" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K47" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K46" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K45" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K44" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K43" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K42" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K41" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K55" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K54" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K53" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K52" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K51" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K50" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K49" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K63" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K62" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K61" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K60" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K59" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K58" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K57" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K71" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K70" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K69" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K68" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K67" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K66" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K65" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K79" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K78" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K77" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K76" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K75" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K74" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K73" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K87" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K86" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K85" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K84" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K83" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K82" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K81" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K0" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K8" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K16" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K24" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K32" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K40" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K48" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K56" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K64" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K72" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K80" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K95" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K94" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K93" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K92" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K91" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K90" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K89" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K88" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K103" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K102" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K101" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K100" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K99" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K98" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K97" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K96" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K111" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K110" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K109" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K108" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K107" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K106" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K105" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K104" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K119" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K118" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K117" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K116" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K115" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K114" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K113" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K112" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K127" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K126" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K125" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K124" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K123" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K122" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K121" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
+<part name="K120" library="G6L-1F-DC4.5" deviceset="G6L-1F-DC4.5" device="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="G6L-1F-DC4.5"/>
+<attribute name="MFR_NAME" value="Omron Electronics Inc-EMC Div"/>
+</part>
 <part name="U21" library="SN74HCS595" deviceset="SN74HCS595" device="" package3d_urn="urn:adsk.eagle:package:30715028/1" value="SN74HCS595">
 <attribute name="MANUFACTURER_PART_NUMBER" value="SN74HCS595PWR"/>
 <attribute name="MFR_NAME" value="Texas Instruments"/>
@@ -18881,8 +19265,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <pinmap gate="G$1" pin="2" pinorder="2"/>
 </pinmapping>
 </spice>
-<attribute name="MANUFACTURER_NAME" value="YAGEO"/>
 <attribute name="MANUFACTURER_PART_NUMBER" value="RC0603FR-07360RL"/>
+<attribute name="MFR_NAME" value="YAGEO"/>
 </part>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -18908,8 +19292,26 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </part>
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R37" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1"/>
-<part name="R38" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1"/>
+<part name="R37" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1">
+<spice>
+<pinmapping spiceprefix="R">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0603FR-071RL"/>
+<attribute name="MFR_NAME" value="YAGEO"/>
+</part>
+<part name="R38" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1">
+<spice>
+<pinmapping spiceprefix="R">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0603FR-071RL"/>
+<attribute name="MFR_NAME" value="YAGEO"/>
+</part>
 <part name="U5" library="ecs-20xx" deviceset="ECS-2033-080-AU" device="" package3d_urn="urn:adsk.eagle:package:34367365/1">
 <attribute name="MANUFACTURER_PART_NUMBER" value="ECS-2033-080-AU"/>
 <attribute name="MFR_NAME" value="ECS Incorporated"/>
@@ -19739,7 +20141,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="R34" gate="G$1" x="52.07" y="-58.42" smashed="yes" rot="R90">
 <attribute name="NAME" x="50.5714" y="-62.23" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="55.372" y="-62.23" size="1.778" layer="96" rot="R90"/>
-<attribute name="MANUFACTURER_NAME" x="52.07" y="-58.42" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MFR_NAME" x="52.07" y="-58.42" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MANUFACTURER_PART_NUMBER" x="52.07" y="-58.42" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="GND5" gate="1" x="52.07" y="-67.31" smashed="yes">
@@ -19769,10 +20171,14 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="R37" gate="G$1" x="66.04" y="-43.18" smashed="yes" rot="R90">
 <attribute name="NAME" x="64.5414" y="-46.99" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="69.342" y="-46.99" size="1.778" layer="96" rot="R90"/>
+<attribute name="MFR_NAME" x="66.04" y="-43.18" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="66.04" y="-43.18" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R38" gate="G$1" x="66.04" y="-86.36" smashed="yes" rot="R90">
 <attribute name="NAME" x="64.5414" y="-90.17" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="69.342" y="-90.17" size="1.778" layer="96" rot="R90"/>
+<attribute name="MFR_NAME" x="66.04" y="-86.36" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="66.04" y="-86.36" size="1.778" layer="96" display="off"/>
 </instance>
 </instances>
 <busses>
@@ -22479,514 +22885,770 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="K7" gate="A" x="15.24" y="12.7" smashed="yes">
 <attribute name="NAME" x="5.588" y="24.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="5.08" y="0" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="15.24" y="12.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="15.24" y="12.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K6" gate="A" x="15.24" y="38.1" smashed="yes">
 <attribute name="NAME" x="5.588" y="49.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="5.08" y="25.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="15.24" y="38.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="15.24" y="38.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K5" gate="A" x="15.24" y="63.5" smashed="yes">
 <attribute name="NAME" x="5.588" y="74.93" size="1.27" layer="95"/>
 <attribute name="VALUE" x="5.08" y="50.8" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="15.24" y="63.5" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="15.24" y="63.5" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K4" gate="A" x="15.24" y="91.44" smashed="yes">
 <attribute name="NAME" x="5.588" y="102.87" size="1.27" layer="95"/>
 <attribute name="VALUE" x="5.08" y="78.74" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="15.24" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="15.24" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K3" gate="A" x="15.24" y="116.84" smashed="yes">
 <attribute name="NAME" x="5.588" y="128.27" size="1.27" layer="95"/>
 <attribute name="VALUE" x="5.08" y="104.14" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="15.24" y="116.84" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="15.24" y="116.84" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K2" gate="A" x="15.24" y="142.24" smashed="yes">
 <attribute name="NAME" x="5.588" y="153.67" size="1.27" layer="95"/>
 <attribute name="VALUE" x="5.08" y="129.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="15.24" y="142.24" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="15.24" y="142.24" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K1" gate="A" x="15.24" y="167.64" smashed="yes">
 <attribute name="NAME" x="5.588" y="179.07" size="1.27" layer="95"/>
 <attribute name="VALUE" x="5.08" y="154.94" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="15.24" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="15.24" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K15" gate="A" x="60.96" y="12.7" smashed="yes">
 <attribute name="NAME" x="51.308" y="24.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="50.8" y="0" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="60.96" y="12.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="60.96" y="12.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K14" gate="A" x="60.96" y="38.1" smashed="yes">
 <attribute name="NAME" x="51.308" y="49.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="50.8" y="25.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="60.96" y="38.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="60.96" y="38.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K13" gate="A" x="60.96" y="63.5" smashed="yes">
 <attribute name="NAME" x="51.308" y="74.93" size="1.27" layer="95"/>
 <attribute name="VALUE" x="50.8" y="50.8" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="60.96" y="63.5" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="60.96" y="63.5" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K12" gate="A" x="60.96" y="91.44" smashed="yes">
 <attribute name="NAME" x="51.308" y="102.87" size="1.27" layer="95"/>
 <attribute name="VALUE" x="50.8" y="78.74" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="60.96" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="60.96" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K11" gate="A" x="60.96" y="116.84" smashed="yes">
 <attribute name="NAME" x="51.308" y="128.27" size="1.27" layer="95"/>
 <attribute name="VALUE" x="50.8" y="104.14" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="60.96" y="116.84" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="60.96" y="116.84" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K10" gate="A" x="60.96" y="142.24" smashed="yes">
 <attribute name="NAME" x="51.308" y="153.67" size="1.27" layer="95"/>
 <attribute name="VALUE" x="50.8" y="129.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="60.96" y="142.24" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="60.96" y="142.24" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K9" gate="A" x="60.96" y="167.64" smashed="yes">
 <attribute name="NAME" x="51.308" y="179.07" size="1.27" layer="95"/>
 <attribute name="VALUE" x="50.8" y="154.94" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="60.96" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="60.96" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K23" gate="A" x="106.68" y="12.7" smashed="yes">
 <attribute name="NAME" x="97.028" y="24.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="96.52" y="0" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="106.68" y="12.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="106.68" y="12.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K22" gate="A" x="106.68" y="38.1" smashed="yes">
 <attribute name="NAME" x="97.028" y="49.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="96.52" y="25.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="106.68" y="38.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="106.68" y="38.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K21" gate="A" x="106.68" y="63.5" smashed="yes">
 <attribute name="NAME" x="97.028" y="74.93" size="1.27" layer="95"/>
 <attribute name="VALUE" x="96.52" y="50.8" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="106.68" y="63.5" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="106.68" y="63.5" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K20" gate="A" x="106.68" y="91.44" smashed="yes">
 <attribute name="NAME" x="97.028" y="102.87" size="1.27" layer="95"/>
 <attribute name="VALUE" x="96.52" y="78.74" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="106.68" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="106.68" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K19" gate="A" x="106.68" y="116.84" smashed="yes">
 <attribute name="NAME" x="97.028" y="128.27" size="1.27" layer="95"/>
 <attribute name="VALUE" x="96.52" y="104.14" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="106.68" y="116.84" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="106.68" y="116.84" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K18" gate="A" x="106.68" y="142.24" smashed="yes">
 <attribute name="NAME" x="97.028" y="153.67" size="1.27" layer="95"/>
 <attribute name="VALUE" x="96.52" y="129.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="106.68" y="142.24" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="106.68" y="142.24" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K17" gate="A" x="106.68" y="167.64" smashed="yes">
 <attribute name="NAME" x="97.028" y="179.07" size="1.27" layer="95"/>
 <attribute name="VALUE" x="96.52" y="154.94" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="106.68" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="106.68" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K31" gate="A" x="149.86" y="12.7" smashed="yes">
 <attribute name="NAME" x="140.208" y="24.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="139.7" y="0" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="12.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="12.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K30" gate="A" x="149.86" y="38.1" smashed="yes">
 <attribute name="NAME" x="140.208" y="49.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="139.7" y="25.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="38.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="38.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K29" gate="A" x="149.86" y="63.5" smashed="yes">
 <attribute name="NAME" x="140.208" y="74.93" size="1.27" layer="95"/>
 <attribute name="VALUE" x="139.7" y="50.8" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="63.5" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="63.5" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K28" gate="A" x="149.86" y="91.44" smashed="yes">
 <attribute name="NAME" x="140.208" y="102.87" size="1.27" layer="95"/>
 <attribute name="VALUE" x="139.7" y="78.74" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K27" gate="A" x="149.86" y="116.84" smashed="yes">
 <attribute name="NAME" x="140.208" y="128.27" size="1.27" layer="95"/>
 <attribute name="VALUE" x="139.7" y="104.14" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="116.84" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="116.84" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K26" gate="A" x="149.86" y="142.24" smashed="yes">
 <attribute name="NAME" x="140.208" y="153.67" size="1.27" layer="95"/>
 <attribute name="VALUE" x="139.7" y="129.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="142.24" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="142.24" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K25" gate="A" x="149.86" y="167.64" smashed="yes">
 <attribute name="NAME" x="140.208" y="179.07" size="1.27" layer="95"/>
 <attribute name="VALUE" x="139.7" y="154.94" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K39" gate="A" x="193.04" y="12.7" smashed="yes">
 <attribute name="NAME" x="183.388" y="24.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="182.88" y="0" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="193.04" y="12.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="193.04" y="12.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K38" gate="A" x="193.04" y="38.1" smashed="yes">
 <attribute name="NAME" x="183.388" y="49.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="182.88" y="25.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="193.04" y="38.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="193.04" y="38.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K37" gate="A" x="193.04" y="63.5" smashed="yes">
 <attribute name="NAME" x="183.388" y="74.93" size="1.27" layer="95"/>
 <attribute name="VALUE" x="182.88" y="50.8" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="193.04" y="63.5" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="193.04" y="63.5" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K36" gate="A" x="193.04" y="91.44" smashed="yes">
 <attribute name="NAME" x="183.388" y="102.87" size="1.27" layer="95"/>
 <attribute name="VALUE" x="182.88" y="78.74" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="193.04" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="193.04" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K35" gate="A" x="193.04" y="116.84" smashed="yes">
 <attribute name="NAME" x="183.388" y="128.27" size="1.27" layer="95"/>
 <attribute name="VALUE" x="182.88" y="104.14" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="193.04" y="116.84" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="193.04" y="116.84" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K34" gate="A" x="193.04" y="142.24" smashed="yes">
 <attribute name="NAME" x="183.388" y="153.67" size="1.27" layer="95"/>
 <attribute name="VALUE" x="182.88" y="129.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="193.04" y="142.24" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="193.04" y="142.24" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K33" gate="A" x="193.04" y="167.64" smashed="yes">
 <attribute name="NAME" x="183.388" y="179.07" size="1.27" layer="95"/>
 <attribute name="VALUE" x="182.88" y="154.94" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="193.04" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="193.04" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K47" gate="A" x="236.22" y="12.7" smashed="yes">
 <attribute name="NAME" x="226.568" y="24.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="226.06" y="0" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="236.22" y="12.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="236.22" y="12.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K46" gate="A" x="236.22" y="38.1" smashed="yes">
 <attribute name="NAME" x="226.568" y="49.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="226.06" y="25.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="236.22" y="38.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="236.22" y="38.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K45" gate="A" x="236.22" y="63.5" smashed="yes">
 <attribute name="NAME" x="226.568" y="74.93" size="1.27" layer="95"/>
 <attribute name="VALUE" x="226.06" y="50.8" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="236.22" y="63.5" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="236.22" y="63.5" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K44" gate="A" x="236.22" y="91.44" smashed="yes">
 <attribute name="NAME" x="226.568" y="102.87" size="1.27" layer="95"/>
 <attribute name="VALUE" x="226.06" y="78.74" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="236.22" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="236.22" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K43" gate="A" x="236.22" y="116.84" smashed="yes">
 <attribute name="NAME" x="226.568" y="128.27" size="1.27" layer="95"/>
 <attribute name="VALUE" x="226.06" y="104.14" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="236.22" y="116.84" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="236.22" y="116.84" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K42" gate="A" x="236.22" y="142.24" smashed="yes">
 <attribute name="NAME" x="226.568" y="153.67" size="1.27" layer="95"/>
 <attribute name="VALUE" x="226.06" y="129.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="236.22" y="142.24" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="236.22" y="142.24" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K41" gate="A" x="236.22" y="167.64" smashed="yes">
 <attribute name="NAME" x="226.568" y="179.07" size="1.27" layer="95"/>
 <attribute name="VALUE" x="226.06" y="154.94" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="236.22" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="236.22" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K55" gate="A" x="279.4" y="10.16" smashed="yes">
 <attribute name="NAME" x="269.748" y="21.59" size="1.27" layer="95"/>
 <attribute name="VALUE" x="269.24" y="-2.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="279.4" y="10.16" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="279.4" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K54" gate="A" x="279.4" y="35.56" smashed="yes">
 <attribute name="NAME" x="269.748" y="46.99" size="1.27" layer="95"/>
 <attribute name="VALUE" x="269.24" y="22.86" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="279.4" y="35.56" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="279.4" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K53" gate="A" x="279.4" y="60.96" smashed="yes">
 <attribute name="NAME" x="269.748" y="72.39" size="1.27" layer="95"/>
 <attribute name="VALUE" x="269.24" y="48.26" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="279.4" y="60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="279.4" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K52" gate="A" x="279.4" y="88.9" smashed="yes">
 <attribute name="NAME" x="269.748" y="100.33" size="1.27" layer="95"/>
 <attribute name="VALUE" x="269.24" y="76.2" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="279.4" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="279.4" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K51" gate="A" x="279.4" y="114.3" smashed="yes">
 <attribute name="NAME" x="269.748" y="125.73" size="1.27" layer="95"/>
 <attribute name="VALUE" x="269.24" y="101.6" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="279.4" y="114.3" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="279.4" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K50" gate="A" x="279.4" y="139.7" smashed="yes">
 <attribute name="NAME" x="269.748" y="151.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="269.24" y="127" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="279.4" y="139.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="279.4" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K49" gate="A" x="279.4" y="165.1" smashed="yes">
 <attribute name="NAME" x="269.748" y="176.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="269.24" y="152.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="279.4" y="165.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="279.4" y="165.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K63" gate="A" x="322.58" y="10.16" smashed="yes">
 <attribute name="NAME" x="312.928" y="21.59" size="1.27" layer="95"/>
 <attribute name="VALUE" x="312.42" y="-2.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="322.58" y="10.16" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="322.58" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K62" gate="A" x="322.58" y="35.56" smashed="yes">
 <attribute name="NAME" x="312.928" y="46.99" size="1.27" layer="95"/>
 <attribute name="VALUE" x="312.42" y="22.86" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="322.58" y="35.56" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="322.58" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K61" gate="A" x="322.58" y="60.96" smashed="yes">
 <attribute name="NAME" x="312.928" y="72.39" size="1.27" layer="95"/>
 <attribute name="VALUE" x="312.42" y="48.26" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="322.58" y="60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="322.58" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K60" gate="A" x="322.58" y="88.9" smashed="yes">
 <attribute name="NAME" x="312.928" y="100.33" size="1.27" layer="95"/>
 <attribute name="VALUE" x="312.42" y="76.2" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="322.58" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="322.58" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K59" gate="A" x="322.58" y="114.3" smashed="yes">
 <attribute name="NAME" x="312.928" y="125.73" size="1.27" layer="95"/>
 <attribute name="VALUE" x="312.42" y="101.6" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="322.58" y="114.3" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="322.58" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K58" gate="A" x="322.58" y="139.7" smashed="yes">
 <attribute name="NAME" x="312.928" y="151.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="312.42" y="127" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="322.58" y="139.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="322.58" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K57" gate="A" x="322.58" y="165.1" smashed="yes">
 <attribute name="NAME" x="312.928" y="176.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="312.42" y="152.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="322.58" y="165.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="322.58" y="165.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K71" gate="A" x="365.76" y="10.16" smashed="yes">
 <attribute name="NAME" x="356.108" y="21.59" size="1.27" layer="95"/>
 <attribute name="VALUE" x="355.6" y="-2.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="365.76" y="10.16" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="365.76" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K70" gate="A" x="365.76" y="35.56" smashed="yes">
 <attribute name="NAME" x="356.108" y="46.99" size="1.27" layer="95"/>
 <attribute name="VALUE" x="355.6" y="22.86" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="365.76" y="35.56" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="365.76" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K69" gate="A" x="365.76" y="60.96" smashed="yes">
 <attribute name="NAME" x="356.108" y="72.39" size="1.27" layer="95"/>
 <attribute name="VALUE" x="355.6" y="48.26" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="365.76" y="60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="365.76" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K68" gate="A" x="365.76" y="88.9" smashed="yes">
 <attribute name="NAME" x="356.108" y="100.33" size="1.27" layer="95"/>
 <attribute name="VALUE" x="355.6" y="76.2" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="365.76" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="365.76" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K67" gate="A" x="365.76" y="114.3" smashed="yes">
 <attribute name="NAME" x="356.108" y="125.73" size="1.27" layer="95"/>
 <attribute name="VALUE" x="355.6" y="101.6" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="365.76" y="114.3" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="365.76" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K66" gate="A" x="365.76" y="139.7" smashed="yes">
 <attribute name="NAME" x="356.108" y="151.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="355.6" y="127" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="365.76" y="139.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="365.76" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K65" gate="A" x="365.76" y="165.1" smashed="yes">
 <attribute name="NAME" x="356.108" y="176.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="355.6" y="152.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="365.76" y="165.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="365.76" y="165.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K79" gate="A" x="408.94" y="10.16" smashed="yes">
 <attribute name="NAME" x="399.288" y="21.59" size="1.27" layer="95"/>
 <attribute name="VALUE" x="398.78" y="-2.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="408.94" y="10.16" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="408.94" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K78" gate="A" x="408.94" y="35.56" smashed="yes">
 <attribute name="NAME" x="399.288" y="46.99" size="1.27" layer="95"/>
 <attribute name="VALUE" x="398.78" y="22.86" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="408.94" y="35.56" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="408.94" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K77" gate="A" x="408.94" y="60.96" smashed="yes">
 <attribute name="NAME" x="399.288" y="72.39" size="1.27" layer="95"/>
 <attribute name="VALUE" x="398.78" y="48.26" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="408.94" y="60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="408.94" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K76" gate="A" x="408.94" y="88.9" smashed="yes">
 <attribute name="NAME" x="399.288" y="100.33" size="1.27" layer="95"/>
 <attribute name="VALUE" x="398.78" y="76.2" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="408.94" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="408.94" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K75" gate="A" x="408.94" y="114.3" smashed="yes">
 <attribute name="NAME" x="399.288" y="125.73" size="1.27" layer="95"/>
 <attribute name="VALUE" x="398.78" y="101.6" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="408.94" y="114.3" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="408.94" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K74" gate="A" x="408.94" y="139.7" smashed="yes">
 <attribute name="NAME" x="399.288" y="151.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="398.78" y="127" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="408.94" y="139.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="408.94" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K73" gate="A" x="408.94" y="165.1" smashed="yes">
 <attribute name="NAME" x="399.288" y="176.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="398.78" y="152.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="408.94" y="165.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="408.94" y="165.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K87" gate="A" x="449.58" y="10.16" smashed="yes">
 <attribute name="NAME" x="439.928" y="21.59" size="1.27" layer="95"/>
 <attribute name="VALUE" x="439.42" y="-2.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="449.58" y="10.16" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="449.58" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K86" gate="A" x="449.58" y="35.56" smashed="yes">
 <attribute name="NAME" x="439.928" y="46.99" size="1.27" layer="95"/>
 <attribute name="VALUE" x="439.42" y="22.86" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="449.58" y="35.56" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="449.58" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K85" gate="A" x="449.58" y="60.96" smashed="yes">
 <attribute name="NAME" x="439.928" y="72.39" size="1.27" layer="95"/>
 <attribute name="VALUE" x="439.42" y="48.26" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="449.58" y="60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="449.58" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K84" gate="A" x="449.58" y="88.9" smashed="yes">
 <attribute name="NAME" x="439.928" y="100.33" size="1.27" layer="95"/>
 <attribute name="VALUE" x="439.42" y="76.2" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="449.58" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="449.58" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K83" gate="A" x="449.58" y="114.3" smashed="yes">
 <attribute name="NAME" x="439.928" y="125.73" size="1.27" layer="95"/>
 <attribute name="VALUE" x="439.42" y="101.6" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="449.58" y="114.3" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="449.58" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K82" gate="A" x="449.58" y="139.7" smashed="yes">
 <attribute name="NAME" x="439.928" y="151.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="439.42" y="127" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="449.58" y="139.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="449.58" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K81" gate="A" x="449.58" y="165.1" smashed="yes">
 <attribute name="NAME" x="439.928" y="176.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="439.42" y="152.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="449.58" y="165.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="449.58" y="165.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K0" gate="A" x="15.24" y="193.04" smashed="yes">
 <attribute name="NAME" x="5.588" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="5.08" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="15.24" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="15.24" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K8" gate="A" x="60.96" y="193.04" smashed="yes">
 <attribute name="NAME" x="51.308" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="50.8" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="60.96" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="60.96" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K16" gate="A" x="106.68" y="193.04" smashed="yes">
 <attribute name="NAME" x="97.028" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="96.52" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="106.68" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="106.68" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K24" gate="A" x="149.86" y="193.04" smashed="yes">
 <attribute name="NAME" x="140.208" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="139.7" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="149.86" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="149.86" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K32" gate="A" x="193.04" y="193.04" smashed="yes">
 <attribute name="NAME" x="183.388" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="182.88" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="193.04" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="193.04" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K40" gate="A" x="236.22" y="193.04" smashed="yes">
 <attribute name="NAME" x="226.568" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="226.06" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="236.22" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="236.22" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K48" gate="A" x="279.4" y="193.04" smashed="yes">
 <attribute name="NAME" x="269.748" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="269.24" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="279.4" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="279.4" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K56" gate="A" x="322.58" y="193.04" smashed="yes">
 <attribute name="NAME" x="312.928" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="312.42" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="322.58" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="322.58" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K64" gate="A" x="365.76" y="193.04" smashed="yes">
 <attribute name="NAME" x="356.108" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="355.6" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="365.76" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="365.76" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K72" gate="A" x="408.94" y="193.04" smashed="yes">
 <attribute name="NAME" x="399.288" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="398.78" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="408.94" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="408.94" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K80" gate="A" x="449.58" y="193.04" smashed="yes">
 <attribute name="NAME" x="439.928" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="439.42" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="449.58" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="449.58" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K95" gate="A" x="487.68" y="10.16" smashed="yes">
 <attribute name="NAME" x="478.028" y="21.59" size="1.27" layer="95"/>
 <attribute name="VALUE" x="477.52" y="-2.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="487.68" y="10.16" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="487.68" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K94" gate="A" x="487.68" y="35.56" smashed="yes">
 <attribute name="NAME" x="478.028" y="46.99" size="1.27" layer="95"/>
 <attribute name="VALUE" x="477.52" y="22.86" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="487.68" y="35.56" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="487.68" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K93" gate="A" x="487.68" y="60.96" smashed="yes">
 <attribute name="NAME" x="478.028" y="72.39" size="1.27" layer="95"/>
 <attribute name="VALUE" x="477.52" y="48.26" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="487.68" y="60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="487.68" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K92" gate="A" x="487.68" y="88.9" smashed="yes">
 <attribute name="NAME" x="478.028" y="100.33" size="1.27" layer="95"/>
 <attribute name="VALUE" x="477.52" y="76.2" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="487.68" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="487.68" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K91" gate="A" x="487.68" y="114.3" smashed="yes">
 <attribute name="NAME" x="478.028" y="125.73" size="1.27" layer="95"/>
 <attribute name="VALUE" x="477.52" y="101.6" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="487.68" y="114.3" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="487.68" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K90" gate="A" x="487.68" y="139.7" smashed="yes">
 <attribute name="NAME" x="478.028" y="151.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="477.52" y="127" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="487.68" y="139.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="487.68" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K89" gate="A" x="487.68" y="165.1" smashed="yes">
 <attribute name="NAME" x="478.028" y="176.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="477.52" y="152.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="487.68" y="165.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="487.68" y="165.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K88" gate="A" x="487.68" y="193.04" smashed="yes">
 <attribute name="NAME" x="478.028" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="477.52" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="487.68" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="487.68" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K103" gate="A" x="525.78" y="10.16" smashed="yes">
 <attribute name="NAME" x="516.128" y="21.59" size="1.27" layer="95"/>
 <attribute name="VALUE" x="515.62" y="-2.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="525.78" y="10.16" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="525.78" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K102" gate="A" x="525.78" y="35.56" smashed="yes">
 <attribute name="NAME" x="516.128" y="46.99" size="1.27" layer="95"/>
 <attribute name="VALUE" x="515.62" y="22.86" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="525.78" y="35.56" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="525.78" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K101" gate="A" x="525.78" y="60.96" smashed="yes">
 <attribute name="NAME" x="516.128" y="72.39" size="1.27" layer="95"/>
 <attribute name="VALUE" x="515.62" y="48.26" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="525.78" y="60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="525.78" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K100" gate="A" x="525.78" y="88.9" smashed="yes">
 <attribute name="NAME" x="516.128" y="100.33" size="1.27" layer="95"/>
 <attribute name="VALUE" x="515.62" y="76.2" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="525.78" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="525.78" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K99" gate="A" x="525.78" y="114.3" smashed="yes">
 <attribute name="NAME" x="516.128" y="125.73" size="1.27" layer="95"/>
 <attribute name="VALUE" x="515.62" y="101.6" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="525.78" y="114.3" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="525.78" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K98" gate="A" x="525.78" y="139.7" smashed="yes">
 <attribute name="NAME" x="516.128" y="151.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="515.62" y="127" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="525.78" y="139.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="525.78" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K97" gate="A" x="525.78" y="165.1" smashed="yes">
 <attribute name="NAME" x="516.128" y="176.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="515.62" y="152.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="525.78" y="165.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="525.78" y="165.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K96" gate="A" x="525.78" y="193.04" smashed="yes">
 <attribute name="NAME" x="516.128" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="515.62" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="525.78" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="525.78" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K111" gate="A" x="566.42" y="10.16" smashed="yes">
 <attribute name="NAME" x="556.768" y="21.59" size="1.27" layer="95"/>
 <attribute name="VALUE" x="556.26" y="-2.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="566.42" y="10.16" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="566.42" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K110" gate="A" x="566.42" y="35.56" smashed="yes">
 <attribute name="NAME" x="556.768" y="46.99" size="1.27" layer="95"/>
 <attribute name="VALUE" x="556.26" y="22.86" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="566.42" y="35.56" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="566.42" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K109" gate="A" x="566.42" y="60.96" smashed="yes">
 <attribute name="NAME" x="556.768" y="72.39" size="1.27" layer="95"/>
 <attribute name="VALUE" x="556.26" y="48.26" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="566.42" y="60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="566.42" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K108" gate="A" x="566.42" y="88.9" smashed="yes">
 <attribute name="NAME" x="556.768" y="100.33" size="1.27" layer="95"/>
 <attribute name="VALUE" x="556.26" y="76.2" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="566.42" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="566.42" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K107" gate="A" x="566.42" y="114.3" smashed="yes">
 <attribute name="NAME" x="556.768" y="125.73" size="1.27" layer="95"/>
 <attribute name="VALUE" x="556.26" y="101.6" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="566.42" y="114.3" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="566.42" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K106" gate="A" x="566.42" y="139.7" smashed="yes">
 <attribute name="NAME" x="556.768" y="151.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="556.26" y="127" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="566.42" y="139.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="566.42" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K105" gate="A" x="566.42" y="165.1" smashed="yes">
 <attribute name="NAME" x="556.768" y="176.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="556.26" y="152.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="566.42" y="165.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="566.42" y="165.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K104" gate="A" x="566.42" y="193.04" smashed="yes">
 <attribute name="NAME" x="556.768" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="556.26" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="566.42" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="566.42" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K119" gate="A" x="604.52" y="10.16" smashed="yes">
 <attribute name="NAME" x="594.868" y="21.59" size="1.27" layer="95"/>
 <attribute name="VALUE" x="594.36" y="-2.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="604.52" y="10.16" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="604.52" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K118" gate="A" x="604.52" y="35.56" smashed="yes">
 <attribute name="NAME" x="594.868" y="46.99" size="1.27" layer="95"/>
 <attribute name="VALUE" x="594.36" y="22.86" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="604.52" y="35.56" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="604.52" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K117" gate="A" x="604.52" y="60.96" smashed="yes">
 <attribute name="NAME" x="594.868" y="72.39" size="1.27" layer="95"/>
 <attribute name="VALUE" x="594.36" y="48.26" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="604.52" y="60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="604.52" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K116" gate="A" x="604.52" y="88.9" smashed="yes">
 <attribute name="NAME" x="594.868" y="100.33" size="1.27" layer="95"/>
 <attribute name="VALUE" x="594.36" y="76.2" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="604.52" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="604.52" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K115" gate="A" x="604.52" y="114.3" smashed="yes">
 <attribute name="NAME" x="594.868" y="125.73" size="1.27" layer="95"/>
 <attribute name="VALUE" x="594.36" y="101.6" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="604.52" y="114.3" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="604.52" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K114" gate="A" x="604.52" y="139.7" smashed="yes">
 <attribute name="NAME" x="594.868" y="151.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="594.36" y="127" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="604.52" y="139.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="604.52" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K113" gate="A" x="604.52" y="165.1" smashed="yes">
 <attribute name="NAME" x="594.868" y="176.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="594.36" y="152.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="604.52" y="165.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="604.52" y="165.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K112" gate="A" x="604.52" y="193.04" smashed="yes">
 <attribute name="NAME" x="594.868" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="594.36" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="604.52" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="604.52" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K127" gate="A" x="645.16" y="10.16" smashed="yes">
 <attribute name="NAME" x="635.508" y="21.59" size="1.27" layer="95"/>
 <attribute name="VALUE" x="635" y="-2.54" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="645.16" y="10.16" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="645.16" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K126" gate="A" x="645.16" y="35.56" smashed="yes">
 <attribute name="NAME" x="635.508" y="46.99" size="1.27" layer="95"/>
 <attribute name="VALUE" x="635" y="22.86" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="645.16" y="35.56" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="645.16" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K125" gate="A" x="645.16" y="60.96" smashed="yes">
 <attribute name="NAME" x="635.508" y="72.39" size="1.27" layer="95"/>
 <attribute name="VALUE" x="635" y="48.26" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="645.16" y="60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="645.16" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K124" gate="A" x="645.16" y="88.9" smashed="yes">
 <attribute name="NAME" x="635.508" y="100.33" size="1.27" layer="95"/>
 <attribute name="VALUE" x="635" y="76.2" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="645.16" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="645.16" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K123" gate="A" x="645.16" y="114.3" smashed="yes">
 <attribute name="NAME" x="635.508" y="125.73" size="1.27" layer="95"/>
 <attribute name="VALUE" x="635" y="101.6" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="645.16" y="114.3" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="645.16" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K122" gate="A" x="645.16" y="139.7" smashed="yes">
 <attribute name="NAME" x="635.508" y="151.13" size="1.27" layer="95"/>
 <attribute name="VALUE" x="635" y="127" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="645.16" y="139.7" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="645.16" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K121" gate="A" x="645.16" y="165.1" smashed="yes">
 <attribute name="NAME" x="635.508" y="176.53" size="1.27" layer="95"/>
 <attribute name="VALUE" x="635" y="152.4" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="645.16" y="165.1" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="645.16" y="165.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="K120" gate="A" x="645.16" y="193.04" smashed="yes">
 <attribute name="NAME" x="635.508" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="635" y="180.34" size="1.27" layer="95"/>
+<attribute name="MFR_NAME" x="645.16" y="193.04" size="1.778" layer="96" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" x="645.16" y="193.04" size="1.778" layer="96" display="off"/>
 </instance>
 </instances>
 <busses>
