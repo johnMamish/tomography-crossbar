@@ -9,7 +9,7 @@ extern int main();
 
 void __attribute__((weak)) SSI0Handler();
 void __attribute__((weak)) Timer0AHandler();
-
+void __attribute__((weak)) UART4Handler();
 
 __attribute__ ((section(".isr_vector")))
 void (* const g_pfnVectors[])(void) =
@@ -91,7 +91,7 @@ void (* const g_pfnVectors[])(void) =
     IntDefaultHandler,                      // SSI2 Rx and Tx
     IntDefaultHandler,                      // SSI3 Rx and Tx
     IntDefaultHandler,                      // UART3 Rx and Tx
-    IntDefaultHandler,                      // UART4 Rx and Tx
+    UART4Handler,                           // UART4 Rx and Tx
     IntDefaultHandler,                      // UART5 Rx and Tx
     IntDefaultHandler,                      // UART6 Rx and Tx
     IntDefaultHandler,                      // UART7 Rx and Tx
@@ -203,6 +203,11 @@ void SSI0Handler()
 }
 
 void Timer0AHandler()
+{
+    while(1);
+}
+
+void UART4Handler()
 {
     while(1);
 }

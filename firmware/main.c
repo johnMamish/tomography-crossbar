@@ -22,8 +22,6 @@ void ssi1_blocking_write(uint8_t data)
     SSI1_DR_R = data;
 }
 
-int hot_relay[16] = {8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8};
-
 int main()
 {
     init_hw();
@@ -36,38 +34,24 @@ int main()
         }
     }
 
-    for (int i = 0; i < 16; i++) {
-        hot_relay[i] = i % 8;
-    }
-
-    GPIO_PORTD_DATA_BITS_R[(1 << 1)] = 0;
+    GPIO_PORTD_DATA_BITS_R[(1 << 1)] = (1 << 1);
 
     int count = 0;
     while(1) {
+        // poll parent UART for new characters
+
+
+        // execute parsed command
+
+
+
         for (int k = 0; k < NUM_SEGS; k++) {
             pixmap[k][0] = digit_map[(k + count) % 10];
             pixmap[k][1] = digit_map[(k + count + 1) % 10];
         }
 
-        for (volatile int i = 0; i < 5000000; i++);
+        for (volatile int i = 0; i < 2000000; i++);
         count++;
-
-        for (int i = 0; i < 16; i++)
-            hot_relay[i] = (hot_relay[i] + 1) % 8;
-
-        // bring strobe low
-        GPIO_PORTD_DATA_BITS_R[(1 << 2)] = 0;
-        for (int i = 0; i < 16; i++) {
-            if (hot_relay[i] < 8)
-                ssi1_blocking_write(1 << hot_relay[i]);
-            else
-                ssi1_blocking_write(0);
-        }
-
-
-        // busywait before bringing strobe high
-        while (SSI1_SR_R & SSI_SR_BSY);
-        GPIO_PORTD_DATA_BITS_R[(1 << 2)] = (1 << 2);
     }
 }
 
@@ -190,10 +174,19 @@ static void init_hw()
     GPIO_PORTC_ODR_R   &= ~((1 << 5) | (1 << 4));
     GPIO_PORTC_DEN_R   |=  ((1 << 5) | (1 << 4));
     GPIO_PORTC_PCTL_R  &= ~(GPIO_PCTL_PC5_M | GPIO_PCTL_PC4_M);
-    GPIO_PORTC_PCTL_R  |=  (GPIO_PCTL_PC5_XXXX | GPIO_PCTL_PC4_XXXX);
+    GPIO_PORTC_PCTL_R  |=  (GPIO_PCTL_PC5_U4TX | GPIO_PCTL_PC4_U4RX);
 
-    // enable UART
+    // enable UART 4
+    SYSCTL_RCGCUART_R |= (1 << 4);
+    for (volatile int i = 0; i < 100; i++);
 
+    // Configure UART4
+    UART4_CTL_R &= ~UART_CTL_UARTEN;
+    UART4_IBRD_R = ((16000000 * 64) / (16 * 115200)) / 64;
+    UART4_FBRD_R = ((16000000 * 64) / (16 * 115200)) % 64;
+    UART4_LCRH_R = (UART_LCRH_WLEN_8);          // bytes are 8 bits
+    UART4_CC_R   =  UART_CC_CS_SYSCLK;          // select sysclk for UART4
+    UART4_CTL_R |=  UART_CTL_UARTEN;
 
-
+    (&NVIC_EN0_R)[(INT_UART4 - 16) / 32] |= (1ul << ((INT_UART4 - 16) % 32));
 }
