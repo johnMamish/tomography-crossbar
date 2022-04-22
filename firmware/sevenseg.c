@@ -17,6 +17,26 @@ const uint8_t digit_map[] = {
     0b10010000,    // 9
 };
 
+const uint8_t sevenseg_remap_array[] = {
+    3, 4, 2, 5, 1, 6, 0, 7, 8
+};
+
+void display_relay_map(int8_t relay_map[8], volatile uint8_t pixels[NUM_SEGS][2])
+{
+    for (int i = 0; i < 8; i++) {
+        uint8_t segment_index = sevenseg_remap_array[i];
+
+        if (relay_map[i] == -1) {
+            pixmap[segment_index][0] = 0xff;
+            pixmap[segment_index][1] = 0xff;
+        } else {
+            int relay_number = relay_map[i];
+            pixmap[segment_index][0] = digit_map[relay_number / 10];
+            pixmap[segment_index][1] = digit_map[relay_number % 10];
+        }
+    }
+}
+
 void Timer0AHandler()
 {
     // clear interrupt

@@ -17,6 +17,9 @@ C_SOURCES:=
 C_SOURCES+= main.c
 C_SOURCES+= sevenseg.c
 C_SOURCES+= startup.c
+C_SOURCES+= relay.c
+C_SOURCES+= uart.c
+C_SOURCES+= saeclib/src/saeclib_circular_buffer.c
 
 ASM_SOURCES:=
 

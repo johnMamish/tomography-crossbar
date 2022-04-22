@@ -9,6 +9,7 @@ extern int main();
 
 void __attribute__((weak)) SSI0Handler();
 void __attribute__((weak)) Timer0AHandler();
+void __attribute__((weak)) UART0Handler();
 void __attribute__((weak)) UART4Handler();
 
 __attribute__ ((section(".isr_vector")))
@@ -36,7 +37,7 @@ void (* const g_pfnVectors[])(void) =
     IntDefaultHandler,                      // GPIO Port C
     IntDefaultHandler,                      // GPIO Port D
     IntDefaultHandler,                      // GPIO Port E
-    IntDefaultHandler,                      // UART0 Rx and Tx
+    UART0Handler,                           // UART0 Rx and Tx
     IntDefaultHandler,                      // UART1 Rx and Tx
     SSI0Handler,                            // SSI0 Rx and Tx
     IntDefaultHandler,                      // I2C0 Master and Slave
@@ -203,6 +204,11 @@ void SSI0Handler()
 }
 
 void Timer0AHandler()
+{
+    while(1);
+}
+
+void UART0Handler()
 {
     while(1);
 }
